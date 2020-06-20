@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="simulado, anatel, telecomunicação, legislação, radioamador, radiofrequência, coer, prova, teste" />
+    <link rel="stylesheet" href="https://unpkg.com/buefy/dist/buefy.min.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/5.3.45/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+
+</head>
+
+<body>
+    <div id="app">
+
+        <div class="container">
+            <section class="articles">
+                <div class="column is-8 is-offset-2">
+                    <div class="card article" v-if="!provaSelecionada">
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content has-text-centered">
+                                    <p class="title article-title">Simulado COER</p>
+                                    <p><strong>Certificado de Operador de Estação de Radioamador</strong></p>
+                                    <p>Provas retiradas do site da <a href="https://www.anatel.gov.br/setorregulado/radioamadorismo" target="_blank">Anatel</a></p>
+                                </div>
+                            </div>
+                            <div class="content article-body">
+                                <p>Selecione uma prova:</p>
+                                <div class="buttons">
+                                    <b-button type="is-primary" v-for="prova in provas" :key="prova.arquivo" @click="provaSelecionada = prova">
+                                        {{ prova.titulo }}
+                                    </b-button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card article" v-else>
+                        <div class="card-content" v-if="terminou">
+                            <div class="media">
+                                <div class="media-content has-text-centered">
+                                    <p class="title article-title">Resultado</p>
+                                    <p>Prova: {{ provaSelecionada.titulo }}</p>
+                                    <p>Acertos: <strong>{{ totalAcertos}}</strong> (<strong>{{ porcentagemAcerto }}%</strong>)</p>
+                                    <p>Tempo: {{ cronometro | formatarSegundos }}</p>
+                                    <b-button type="is-info" @click="provaSelecionada = null">
+                                        Realizar outra prova
+                                    </b-button>
+                                </div>
+                            </div>
+                            <div class="content article-body" v-for="(pergunta, i) in perguntasSelecionadas" :key="i">
+                                <hr />
+
+                                <p>
+                                    <b-taglist attached>
+                                        <b-tag type="is-dark">Pergunta</b-tag>
+                                        <b-tag type="is-primary">#{{ pergunta.numero }}</b-tag>
+                                    </b-taglist>
+                                    {{ pergunta.enunciado }}
+                                </p>
+
+                                <div class="field" v-for="(alternativa, i) in pergunta.alternativas" :key="i">
+                                    <p :class="{'has-background-success': alternativa.correta, 'has-background-danger': !alternativa.correta && i == pergunta.alternativaEscolhida}">
+                                        <b-icon pack="far" icon="times-circle" v-if="i == pergunta.alternativaEscolhida && !alternativa.correta"></b-icon>
+                                        <b-icon pack="far" icon="check-circle" v-else-if="alternativa.correta"></b-icon>
+                                        <b-icon pack="far" icon="circle" v-else></b-icon>
+                                        {{ alternativa.texto }}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-content" v-else>
+                            <div class="media">
+                                <div class="media-content has-text-centered">
+                                    <p class="title article-title">{{ provaSelecionada.titulo }}</p>
+                                    <div class="tags has-addons level-item">
+                                        <b-progress :value="porcentagemProgresso" show-value>
+                                            {{ indicePerguntaAtual+1}} de {{ totalPerguntas }}
+                                        </b-progress>
+                                    </div>
+                                    <p>{{ cronometro | formatarSegundos }}</p>
+                                </div>
+                            </div>
+                            <div class="content article-body" v-if="perguntaAtual">
+                                <b-taglist attached>
+                                    <b-tag type="is-dark">Pergunta</b-tag>
+                                    <b-tag type="is-primary">#{{ perguntaAtual.numero }}</b-tag>
+                                </b-taglist>
+                                <h4>{{ perguntaAtual.enunciado }}</h4>
+
+                                <div class="field" v-for="(alternativa, i) in perguntaAtual.alternativas" :key="i">
+                                    <b-radio v-model="alternativaEscolhida" :native-value="i">{{ alternativa.texto }}</b-radio>
+                                </div>
+
+                                <div class="buttons">
+                                    <b-button type="is-primary" @click="avancar">Avançar</b-button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+    </div>
+
+    <div class="loading-overlay is-active is-full-page"><div class="loading-background" style="background:white"></div> <div class="loading-icon"></div></div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/buefy/dist/buefy.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+
+    <script>
+		if (!self.fetch) {
+		    alert('Navegador incompatível com esse site.')
+		}
+
+        new Vue({
+            el: '#app',
+            data: {
+                carregando: false,
+                provas: [
+                    { titulo: "Legislação de Telecomunicações", arquivo: "anatel-legislacao.json" },
+                ],
+                provaSelecionada: null,
+				perguntas: [],
+                perguntasSelecionadas: [],
+                indicePerguntaAtual: null,
+                alternativaEscolhida: null,
+                cronometro: 0,
+                temporizadorCronometro: null
+            },
+            mounted() {
+                document.querySelector('.loading-overlay').classList.remove("is-active")
+            },
+            watch: {
+                'provaSelecionada': async function(valor) {
+                    if (valor) {
+                        await this.carregarPerguntas()
+                        this.selecionarPerguntas()
+                        this.indicePerguntaAtual = 0
+                        this.iniciarCronometro()
+                        this.carregando = true
+                    }
+                }
+            },
+            methods: {
+                avancar() {
+                    if (_.isNull(this.alternativaEscolhida)) {
+                        this.$buefy.dialog.alert({
+                            message: 'Escolha uma das alternativas para continuar',
+                            type: 'is-danger',
+                            hasIcon: true,
+                            icon: 'times-circle',
+                            iconPack: 'fa',
+                            ariaRole: 'alertdialog',
+                            ariaModal: true
+                        })
+                        return
+                    }
+
+                    this.perguntasSelecionadas[this.indicePerguntaAtual].alternativaEscolhida = this.alternativaEscolhida
+                    this.indicePerguntaAtual++
+                    this.alternativaEscolhida = null
+                },
+				async carregarPerguntas() {
+					var that = this
+					var resposta = await fetch(this.provaSelecionada.arquivo)
+					var resultado = await resposta.json()
+					this.perguntas = resultado
+				},
+				selecionarPerguntas() {
+					this.perguntasSelecionadas = _.shuffle(this.perguntas).slice(0, 20)
+					this.perguntasSelecionadas.map(function(pergunta) {
+						pergunta.alternativas = _.shuffle(pergunta.alternativas)
+					})
+				},
+                iniciarCronometro() {
+                    this.cronometro = 0
+                    this.temporizadorCronometro = setInterval(this.atualizarCronometro, 1000)
+                },
+                atualizarCronometro() {
+                    if (this.terminou) {
+                        clearInterval(this.temporizadorCronometro)
+                    } else {
+                        this.cronometro++
+                    }
+                }
+            },
+            computed: {
+                perguntaAtual() {
+                    return this.perguntasSelecionadas[this.indicePerguntaAtual]
+                },
+                terminou() {
+                    return this.indicePerguntaAtual === this.totalPerguntas
+                },
+                totalAcertos() {
+                    return _.reduce(this.perguntasSelecionadas, function(acertos, pergunta) {
+                        if (pergunta.alternativas[pergunta.alternativaEscolhida].correta) {
+                            return acertos + 1
+                        } else {
+                            return acertos
+                        }
+                    }, 0)
+                },
+                totalPerguntas() {
+                    return this.perguntasSelecionadas.length
+                },
+                porcentagemAcerto() {
+                    return parseFloat(((this.totalAcertos / this.totalPerguntas) * 100).toFixed(2))
+                },
+                porcentagemProgresso() {
+                    return parseFloat(((this.indicePerguntaAtual / this.totalPerguntas) * 100).toFixed(2))
+                }
+            },
+            filters: {
+                formatarSegundos(valor) {
+                    var cronometro = parseInt(valor, 10)
+                    var hora = Math.floor(cronometro / 3600)
+                    var minuto = Math.floor((cronometro - (hora * 3600)) / 60)
+                    var segundo = cronometro - (hora * 3600) - (minuto * 60)
+
+                    if (hora < 10) { hora = '0' + hora }
+                    if (minuto < 10) { minuto = '0' + minuto }
+                    if (segundo < 10) { segundo = '0' + segundo }
+
+                    return hora + ':' + minuto + ':' + segundo
+                }
+            }
+        })
+    </script>
+</body>
+</html>
