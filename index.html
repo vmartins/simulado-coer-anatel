@@ -75,11 +75,9 @@
                             <div class="media">
                                 <div class="media-content has-text-centered">
                                     <p class="title article-title">{{ provaSelecionada.titulo }}</p>
-                                    <div class="tags has-addons level-item">
-                                        <b-progress :value="porcentagemProgresso" show-value>
-                                            {{ indicePerguntaAtual+1}} de {{ totalPerguntas }}
-                                        </b-progress>
-                                    </div>
+                                    <b-progress :value="porcentagemProgresso" show-value>
+                                        {{ indicePerguntaAtual+1}} de {{ totalPerguntas }}
+                                    </b-progress>
                                     <p>{{ cronometro | formatarSegundos }}</p>
                                 </div>
                             </div>
