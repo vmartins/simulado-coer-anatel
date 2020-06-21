@@ -174,7 +174,9 @@
 				selecionarPerguntas() {
 					this.perguntasSelecionadas = _.shuffle(this.perguntas).slice(0, 20)
 					this.perguntasSelecionadas.map(function(pergunta) {
-						pergunta.alternativas = _.shuffle(pergunta.alternativas)
+                        if (pergunta.embaralhar_alternativas) {
+                            pergunta.alternativas = _.shuffle(pergunta.alternativas)
+                        }
 					})
 				},
                 iniciarCronometro() {

@@ -3,6 +3,7 @@
         "numero": 70,
         "enunciado": "Qual dos documentos abaixo relacionados autoriza o radioamador a instalar sua estação:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -30,6 +31,7 @@
         "numero": 75,
         "enunciado": "Qual das abreviaturas do código Q, abaixo relacionadas, você deverá utilizar para perguntar ou responder, informar ou avisar: devo cessar a transmissão? Cesse a transmissão",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -57,6 +59,7 @@
         "numero": 76,
         "enunciado": "O radioamador pode:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -84,6 +87,7 @@
         "numero": 78,
         "enunciado": "A idade mínima para habilitação a classe C de radioamadorismo é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -111,6 +115,7 @@
         "numero": 80,
         "enunciado": "O prefixo PY3 corresponde ao estado do:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -138,6 +143,7 @@
         "numero": 83,
         "enunciado": "No caso de a estação de radioamador pertencer a uma pessoa jurídica, o responsável pelas atividades deverá ser obrigatoriamente:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -165,6 +171,7 @@
         "numero": 84,
         "enunciado": "Para receber o certificado de habilitação como radioamador classe A, é necessário que o candidato comprove atividade na classe B, por:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -192,6 +199,7 @@
         "numero": 85,
         "enunciado": "O certificado de habilitação de radioamador classe B será substituído quando",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -219,6 +227,7 @@
         "numero": 87,
         "enunciado": "Confirmada a interferência prejudicial, o radioamador responsável pela estação interferente é obrigado a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -246,6 +255,7 @@
         "numero": 88,
         "enunciado": "A faixa de freqüência em que o radioamador poderá operar será aquela correspondente à classe:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -273,6 +283,7 @@
         "numero": 95,
         "enunciado": "O código QTH, código Q, significa:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -300,6 +311,7 @@
         "numero": 97,
         "enunciado": "A palavra hotel representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -327,6 +339,7 @@
         "numero": 98,
         "enunciado": "A palavra papa, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -354,6 +367,7 @@
         "numero": 99,
         "enunciado": "A palavra november, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -381,6 +395,7 @@
         "numero": 100,
         "enunciado": "A palavra uniform, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -408,6 +423,7 @@
         "numero": 106,
         "enunciado": "A transmissão do indicativo de chamada da estação em sua constituição integral é obrigatória",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -435,6 +451,7 @@
         "numero": 109,
         "enunciado": "Para obter o certificado de operador de estação de radioamador classe B o candidato deverá ser aprovado:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -462,6 +479,7 @@
         "numero": 120,
         "enunciado": "A modalidade de emergência é realizada em casos de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -489,6 +507,7 @@
         "numero": 121,
         "enunciado": "Uma das características do certificado de habilitação de radioamador é ser:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -516,6 +535,7 @@
         "numero": 123,
         "enunciado": "Havendo mudança de indicativo de chamada, por causa da mudança de endereço, a operação da estação:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -543,6 +563,7 @@
         "numero": 126,
         "enunciado": "No caso de o radioamador estrangeiro ter permissão de operar estação de radioamador brasileiro, deve-se observar que:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -570,6 +591,7 @@
         "numero": 127,
         "enunciado": "O radioamador, entre suas obrigações, deve:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -597,6 +619,7 @@
         "numero": 122,
         "enunciado": "O estado de Goiás pertence à seguinte região:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -624,6 +647,7 @@
         "numero": 136,
         "enunciado": "A emissão do código QRV, em código Q, significa:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -651,6 +675,7 @@
         "numero": 137,
         "enunciado": "A palavra bravo representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -678,6 +703,7 @@
         "numero": 138,
         "enunciado": "A palavra echo, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -705,6 +731,7 @@
         "numero": 141,
         "enunciado": "A palavra whiskey, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -732,6 +759,7 @@
         "numero": 142,
         "enunciado": "Estação móvel é aquela:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -759,6 +787,7 @@
         "numero": 143,
         "enunciado": "Para efeito de fiscalização, deve o radioamador ter à disposição os seguintes documentos:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -786,6 +815,7 @@
         "numero": 145,
         "enunciado": "A letra C, no código fonético internacional, é identificada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -813,6 +843,7 @@
         "numero": 146,
         "enunciado": "A renovação do prazo de validade do certificado de operador de estação de radioamador expedida ao radioamador estrangeiro dependerá, entre outros, de;",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -840,6 +871,7 @@
         "numero": 147,
         "enunciado": "O código QRO significa;",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -867,6 +899,7 @@
         "numero": 148,
         "enunciado": "Os radioamadores ou titulares de certificado de operador de estação de radioamador podem operar:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -894,6 +927,7 @@
         "numero": 150,
         "enunciado": "Os radioamadores com certificado de operador de estação de radioamador podem operar:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -921,6 +955,7 @@
         "numero": 151,
         "enunciado": "A licença de estação de radioamador poderá ser expedida:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -948,6 +983,7 @@
         "numero": 155,
         "enunciado": "O prefixo PP7 pertence ao estado de:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -975,6 +1011,7 @@
         "numero": 156,
         "enunciado": "O Brasil mantém acordo de reciprocidade com:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -1002,6 +1039,7 @@
         "numero": 158,
         "enunciado": "O serviço de radioamador tem entre seus objetivos:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1029,6 +1067,7 @@
         "numero": 159,
         "enunciado": "A fiscalização do serviço de radioamador compete:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1056,6 +1095,7 @@
         "numero": 160,
         "enunciado": "Poderão prestar exame em banca especial, desde que comprovem seu estado físico, os candidatos ao radioamadorismo portadores de moléstias contagiosas e também os:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1083,6 +1123,7 @@
         "numero": 161,
         "enunciado": "Uma das obrigações do radioamador, durante a vigência da licença de funcionamento de sua estação, é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1110,6 +1151,7 @@
         "numero": 163,
         "enunciado": "Em suas comunicações, é obrigatório ao radioamador declarar:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1137,6 +1179,7 @@
         "numero": 171,
         "enunciado": "A estação destinada a retransmitir automaticamente sinais de rádio entre estações de radioamadores, nas faixas especificadas na respectivas licença, é a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1164,6 +1207,7 @@
         "numero": 173,
         "enunciado": "O código QRA, significa, no código Q:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1191,6 +1235,7 @@
         "numero": 179,
         "enunciado": "A mensagem QUG em código Q significa:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1218,6 +1263,7 @@
         "numero": 182,
         "enunciado": "Para ingresso na classe C de radioamadorismo, o candidato se submetera a exame de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1245,6 +1291,7 @@
         "numero": 189,
         "enunciado": "Para ajustes de transmissor, as estações deverão usar, obrigatoriamente:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1272,6 +1319,7 @@
         "numero": 191,
         "enunciado": "A modulação em freqüência é representada pelo símbolo:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1299,6 +1347,7 @@
         "numero": 192,
         "enunciado": "O radioamador emprega o símbolo f1 para representar:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1326,6 +1375,7 @@
         "numero": 193,
         "enunciado": "Os estados que compõem a 1a região do Brasil são os seguintes:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1353,6 +1403,7 @@
         "numero": 195,
         "enunciado": "Os indicativos de chamada considerados vagos, por qualquer motivo, poderão ser concedidos a outros radioamadores após um período mínimo de vacância de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1380,6 +1431,7 @@
         "numero": 196,
         "enunciado": "A palavra mike, representa, no código fonético internacional,a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1407,6 +1459,7 @@
         "numero": 199,
         "enunciado": "A palavra oscar, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1434,6 +1487,7 @@
         "numero": 203,
         "enunciado": "O radioamador pode permitir que terceiros utilizem sua estação:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1461,6 +1515,7 @@
         "numero": 206,
         "enunciado": "Quais são os tipos de estação de radioamador?",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1488,6 +1543,7 @@
         "numero": 209,
         "enunciado": "O prazo para requerer o certificado será:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -1515,6 +1571,7 @@
         "numero": 210,
         "enunciado": "A vacância ocorrera por:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -1542,6 +1599,7 @@
         "numero": 215,
         "enunciado": "Para que o candidato menor de idade se habilite como radioamador classe C é indispensável que apresente:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1569,6 +1627,7 @@
         "numero": 218,
         "enunciado": "Os radioamadores, sob sua responsabilidade, permitirão que pessoas não habilitadas utilizem suas estações em casos de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1596,6 +1655,7 @@
         "numero": 219,
         "enunciado": "A autoridade competente para a aplicação das penas por infração ao regulamento do serviço de radioamador é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1623,6 +1683,7 @@
         "numero": 220,
         "enunciado": "O radioamador classe C que quiser passar para a classe B fará exame de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1650,6 +1711,7 @@
         "numero": 221,
         "enunciado": "A modulação em amplitude é representada pelo símbolo:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1677,6 +1739,7 @@
         "numero": 223,
         "enunciado": "Os códigos de deletreação e abreviaturas usados pelo radioamador são:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1704,6 +1767,7 @@
         "numero": 227,
         "enunciado": "A palavra juliett, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1731,6 +1795,7 @@
         "numero": 228,
         "enunciado": "A palavra kilo, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1758,6 +1823,7 @@
         "numero": 229,
         "enunciado": "A palavra x-ray, representada, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1785,6 +1851,7 @@
         "numero": 230,
         "enunciado": "A palavra yankee, representa, no código fonético internacional, a letra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1812,6 +1879,7 @@
         "numero": 231,
         "enunciado": "Para formar a palavra eu, através do código fonético internacional, o radioamador deverá emitir as palavras:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1839,6 +1907,7 @@
         "numero": 1091,
         "enunciado": "A estação repetidora poderá transmitir unilateralmente, sem restrições de tempo no seguinte caso:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -1866,6 +1935,7 @@
         "numero": 1092,
         "enunciado": "A habilitação ou promoção ao radioamadorismo na classe B dependerá da aprovação em exames de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1893,6 +1963,7 @@
         "numero": 1093,
         "enunciado": "A idade mínima para ingresso na classe B de radioamadorismo é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -1920,6 +1991,7 @@
         "numero": 1094,
         "enunciado": "A letra A, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -1947,6 +2019,7 @@
         "numero": 1095,
         "enunciado": "A letra D, no código fonético internacional, é representado pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -1974,6 +2047,7 @@
         "numero": 1096,
         "enunciado": "A letra F, código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2001,6 +2075,7 @@
         "numero": 1097,
         "enunciado": "A letra G, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2028,6 +2103,7 @@
         "numero": 1098,
         "enunciado": "A letra I, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2055,6 +2131,7 @@
         "numero": 1099,
         "enunciado": "A letra L, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2082,6 +2159,7 @@
         "numero": 1100,
         "enunciado": "A letra Q, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2109,6 +2187,7 @@
         "numero": 1101,
         "enunciado": "A letra R, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2136,6 +2215,7 @@
         "numero": 1102,
         "enunciado": "A letra S, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2163,6 +2243,7 @@
         "numero": 1103,
         "enunciado": "A letra T, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2190,6 +2271,7 @@
         "numero": 1104,
         "enunciado": "A letra V, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2217,6 +2299,7 @@
         "numero": 1105,
         "enunciado": "A letra Z, no código fonético internacional, é representada pela palavra:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2244,6 +2327,7 @@
         "numero": 1106,
         "enunciado": "A licença da estação de radioamador é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2271,6 +2355,7 @@
         "numero": 1107,
         "enunciado": "A licença de funcionamento da estação perderá sua validade quando for julgado inconveniente pela Anatel seu funcionamento é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2298,6 +2383,7 @@
         "numero": 1108,
         "enunciado": "A licença de funcionamento de estação de radioamador poderá ser requerida:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -2325,6 +2411,7 @@
         "numero": 1109,
         "enunciado": "A obtenção do certificado de operador de estação de radioamador classe C dependerá da aprovação do candidato:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2352,6 +2439,7 @@
         "numero": 1110,
         "enunciado": "A outorga de permissão para execução do serviço de radioamador é competência exclusiva:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2379,6 +2467,7 @@
         "numero": 1111,
         "enunciado": "A autorização para execução dos serviço de radioamador será outorgada com a expedição do",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2406,6 +2495,7 @@
         "numero": 1112,
         "enunciado": "A potência RMSmáx. de entrada no estágio final de radiofreqüência alimentadora do circuito do sistema irradiante, para as estações licenciadas para radioamadores classe A e B, não poderá ser superior a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2433,6 +2523,7 @@
         "numero": 1113,
         "enunciado": "A potência RMSmáx. de saída atribuída às estações licenciadas de radioamador classe B e A é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2460,6 +2551,7 @@
         "numero": 1114,
         "enunciado": "A potência RMSmáx. de saída dos equipamentos das estações licenciadas para radioamadores classe C não poderá ser superior a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2487,6 +2579,7 @@
         "numero": 1115,
         "enunciado": "A promoção à classe A dependerá do candidato radioamador classe B",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2514,6 +2607,7 @@
         "numero": 1116,
         "enunciado": "A união autoriza a execução de serviço de radioamador por intermédio:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2541,6 +2635,7 @@
         "numero": 1117,
         "enunciado": "As condições de habilitação ao radioamadorismo, assim como as de execução do serviço de radioamador, são estabelecidas:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2568,6 +2663,7 @@
         "numero": 1118,
         "enunciado": "As duas primeiras letras da primeira parte do grupo de letras que compõem o indicativo de chamada do radioamador caracterizam:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2595,6 +2691,7 @@
         "numero": 1119,
         "enunciado": "As estações licenciadas para radioamadores classes A, B, C terão potência RMSmáx. de saída de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2622,6 +2719,7 @@
         "numero": 1121,
         "enunciado": "As estações que podem ter potência média de entrada superior a 100 (cem) watts no estágio de radiofreqüência alimentadora do circuito do sistema irradiante, são as licenciadas para os radioamadores:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2649,6 +2747,7 @@
         "numero": 1122,
         "enunciado": "Os regulamentos baixados pela Anatel, regulando o ingresso de radioamadores nas classes, serão:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2676,6 +2775,7 @@
         "numero": 1123,
         "enunciado": "As questões objetivas sobre regulamento do serviço de radioamador farão parte do exame de habilitação de radioamadorismo na prova de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2703,6 +2803,7 @@
         "numero": 1124,
         "enunciado": "É considerada infração na execução do serviço de radioamador:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2730,6 +2831,7 @@
         "numero": 1126,
         "enunciado": "É permitido ao radioamador transmitir simultaneamente em mais de uma faixa em caso de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2757,6 +2859,7 @@
         "numero": 1127,
         "enunciado": "É proibido ao radioamador:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2784,6 +2887,7 @@
         "numero": 1128,
         "enunciado": "Em caso de extravio do certificado de habilitação de radioamador, ocorrerá com seu titular o seguinte:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2811,6 +2915,7 @@
         "numero": 1129,
         "enunciado": "Enquanto durar a licença de funcionamento da estação for válida, o radioamador responsável deve, entre outras obrigações:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2838,6 +2943,7 @@
         "numero": 1131,
         "enunciado": "Entre as faixas de freqüência permitidas à operação das estações repetidoras, está a de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -2865,6 +2971,7 @@
         "numero": 1132,
         "enunciado": "Indicativos efetivos são:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -2892,6 +2999,7 @@
         "numero": 1133,
         "enunciado": "Indicativos especiais são:",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -2919,6 +3027,7 @@
         "numero": 1134,
         "enunciado": "Na execução do serviço de radioamador é permitido: i - manter comunicados com radioamadores de países estrangeiros; ii - transmitir simultaneamente em mais de uma faixa de freqüências nas experimentações que envolvam estações repetidoras; iii - atender convocação para prestar serviços de utilidade pública, em casos de emergência; iv - divulgar telecomunicações eventualmente interceptadas;",
         "anulada": false,
+        "embaralhar_alternativas": false,
         "alternativas": [
             {
                 "correta": false,
@@ -2946,6 +3055,7 @@
         "numero": 1135,
         "enunciado": "O candidato ao serviço de radioamador, sendo aprovado no exame deverá solicitar:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -2973,6 +3083,7 @@
         "numero": 1136,
         "enunciado": "O certificado de habilitação de radioamador será:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3000,6 +3111,7 @@
         "numero": 1137,
         "enunciado": "O código Q, pelo qual os radioamadores se comunicam, divide-se em seções, em séries de quantas letras?",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3027,6 +3139,7 @@
         "numero": 1138,
         "enunciado": "O documento expedido pela Anatel, que autoriza a instalação e a entrada em serviço da estação de radioamador, dentro dos limites de freqüência e potência impostos à classe do responsável pela estação, é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -3054,6 +3167,7 @@
         "numero": 1139,
         "enunciado": "O programa para a prova de Conhecimentos Básicos de Eletrônica a que o candidato ao radioamadorismo deve se submeter vem relacionado:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3081,6 +3195,7 @@
         "numero": 1140,
         "enunciado": "O radioamador que descobrir interferências prejudiciais às telecomunicações deverá:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -3108,6 +3223,7 @@
         "numero": 1141,
         "enunciado": "O radioamador responsável por estação denunciada como interferente é obrigado a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3135,6 +3251,7 @@
         "numero": 1142,
         "enunciado": "O símbolo E representa o tipo de emissão relativo a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3162,6 +3279,7 @@
         "numero": 1143,
         "enunciado": "O símbolo “F” empregado para o tipo de emissão corresponde a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3189,6 +3307,7 @@
         "numero": 1144,
         "enunciado": "Os indicativos especiais serão outorgados somente a radioamadores classe:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3216,6 +3335,7 @@
         "numero": 1145,
         "enunciado": "Os autorizados do serviço de radioamador e os titulares de certificado de operador de estação de radioamador são obrigados a:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3243,6 +3363,7 @@
         "numero": 1146,
         "enunciado": "Os radioamadores das classes B e C poderão requerer licença de funcionamento de 4 (quatro) tipos de estação, sendo- lhes negada a licença de funcionamento para:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -3270,6 +3391,7 @@
         "numero": 1147,
         "enunciado": "Os radioamadores estrangeiros com autorização para operar no Brasil terão os indicativos de chamada formados de maneira seguinte:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3297,6 +3419,7 @@
         "numero": 1148,
         "enunciado": "Os radioamadores são classificados nas classes A, B e C de acordo com:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3324,6 +3447,7 @@
         "numero": 1149,
         "enunciado": "Os tipos de estações de serviço de radioamador são em número de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -3351,6 +3475,7 @@
         "numero": 1150,
         "enunciado": "Para o funcionamento das estações de radioamador, é necessário, além da habilitação dos responsáveis:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3378,6 +3503,7 @@
         "numero": 1151,
         "enunciado": "Para obter a autorização legal para o funcionamento da estação de radioamador, o interessado, além de estar habilitado, deverá comprovar que:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3405,6 +3531,7 @@
         "numero": 1152,
         "enunciado": "Para se habilitar na classe C, é necessário que o candidato a radioamador seja aprovado em exame de:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3432,6 +3559,7 @@
         "numero": 1153,
         "enunciado": "Poderão também requerer licença para instalação de estação de radioamador, além das universidades e escolas devidamente regularizadas:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
@@ -3459,6 +3587,7 @@
         "numero": 1154,
         "enunciado": "Poderão se inscrever para exames de habilitação ou promoção ao serviço de radioamador, além dos brasileiros, os:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3486,6 +3615,7 @@
         "numero": 1155,
         "enunciado": "Quais são os tipos de estações de radioamador ?",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3513,6 +3643,7 @@
         "numero": 1156,
         "enunciado": "Qual das abreviaturas do código Q, abaixo relacionadas, deverá ser utilizada para perguntar ou responder: nome da estação:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3540,6 +3671,7 @@
         "numero": 1157,
         "enunciado": "Qual das abreviaturas do código Q, abaixo relacionadas, você deverá utilizar para perguntar ou responder, informar ou avisar: devo diminuir a potência? Diminuir a potência.",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3567,6 +3699,7 @@
         "numero": 1158,
         "enunciado": "Quando da realização de testes de avaliação da capacidade operacional e técnica para obtenção do certificado de operador de estação de radioamador, os radiotelegrafistas diplomados, mediante apresentação de prova de qualidade e de acordo com as normas estabelecidas pela Anatel, podem:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": false,
@@ -3594,6 +3727,7 @@
         "numero": 1159,
         "enunciado": "Um dos documentos que pode servir e é exigido para dispensa de provas de Conhecimentos Básicos de Eletrônica e Eletricidade, para radiotelegrafistas formados por escolas oficiais é:",
         "anulada": false,
+        "embaralhar_alternativas": true,
         "alternativas": [
             {
                 "correta": true,
