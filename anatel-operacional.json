@@ -1,0 +1,1738 @@
+[
+    {
+        "numero": 1,
+        "enunciado": "Antes de fazer um CQ, o que se deve fazer?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "aumentar o volume do transmissor"
+            },
+            {
+                "correta": false,
+                "texto": "identificar-se por três vezes"
+            },
+            {
+                "correta": true,
+                "texto": "certificar-se que a QRG está desocupada"
+            },
+            {
+                "correta": false,
+                "texto": "esperar por 5 minutos"
+            },
+            {
+                "correta": false,
+                "texto": "avisar que vai ocupar a freqüência"
+            }
+        ]
+    },
+    {
+        "numero": 2,
+        "enunciado": "Como proceder ao contestar um CQ?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "acusar o recebimento do CQ por várias vezes"
+            },
+            {
+                "correta": true,
+                "texto": "sintonizar o equipamento 'beat zero' na QRG do colega"
+            },
+            {
+                "correta": false,
+                "texto": "perguntar se está sendo ouvido"
+            },
+            {
+                "correta": false,
+                "texto": "dar sua classe de radioamador"
+            },
+            {
+                "correta": false,
+                "texto": "perguntar qual a sua classe?"
+            }
+        ]
+    },
+    {
+        "numero": 4,
+        "enunciado": "Quando você pode interromper uma conversação?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "quando você conhece um dos ocupantes da freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "quando você tem que sair e não pode esperar mais"
+            },
+            {
+                "correta": false,
+                "texto": "para avisar que um dos participantes está sendo chamado"
+            },
+            {
+                "correta": true,
+                "texto": "usando o break em casos de comprovada emergência"
+            },
+            {
+                "correta": false,
+                "texto": "para pedir uma reportagem de sinais"
+            }
+        ]
+    },
+    {
+        "numero": 5,
+        "enunciado": "Como se identificar com os colegas?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "sempre nos intervalos dos QSO com um simples 'bom dia' ou 'boa tarde'"
+            },
+            {
+                "correta": false,
+                "texto": "citando indicativo - nome e QTH por várias vezes"
+            },
+            {
+                "correta": true,
+                "texto": "aguardando intervalo e dando 'bom dia de py1... na escuta'"
+            },
+            {
+                "correta": false,
+                "texto": "respondendo às perguntas feitas ao outro e então dando bom dia"
+            },
+            {
+                "correta": false,
+                "texto": "elevando a potência da transmissão e falando"
+            }
+        ]
+    },
+    {
+        "numero": 7,
+        "enunciado": "Ouvindo um amigo na faixa, como proceder?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "cumprimente-o passando seu nome"
+            },
+            {
+                "correta": false,
+                "texto": "convide-o para vir à outra freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "avise aos demais que quer falar com ele"
+            },
+            {
+                "correta": true,
+                "texto": "espere sua oportunidade de falar dentro da seqüência natural"
+            },
+            {
+                "correta": false,
+                "texto": "aumente a potência e chame por ele"
+            }
+        ]
+    },
+    {
+        "numero": 8,
+        "enunciado": "Assinale o correto:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "mantenha sua conversação com um amigo, pois os outros na rodada compreenderão"
+            },
+            {
+                "correta": false,
+                "texto": "não se preocupe com os demais na rodada, pois você tem tanto direito à freqüência quanto eles"
+            },
+            {
+                "correta": false,
+                "texto": "se a rodada estiver grande, pode tomar a palavra quando quiser"
+            },
+            {
+                "correta": true,
+                "texto": "é extremamente desagradável desenvolver conversação bilateral em uma rodada, com os demais à parte"
+            },
+            {
+                "correta": false,
+                "texto": "se você tem estação mais forte, imponha-se à rodada"
+            }
+        ]
+    },
+    {
+        "numero": 9,
+        "enunciado": "Quando houver um grupo em rodada:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "é normal falar sobre o outro quando se tem maior potência"
+            },
+            {
+                "correta": false,
+                "texto": "se não lhe derem oportunidade após três câmbios, fale à vontade com seu colega, é normal"
+            },
+            {
+                "correta": true,
+                "texto": "nunca tente transmitir 'sobre' outra estação. é ilegal e prejudicial a todos"
+            },
+            {
+                "correta": false,
+                "texto": "pode falar sobre outro colega, pois os novos equipamentos tem filtros próprios para isso"
+            },
+            {
+                "correta": false,
+                "texto": "se você tiver assunto a tratar com vários deles, use da palavra a cada vez que eles falarem"
+            }
+        ]
+    },
+    {
+        "numero": 10,
+        "enunciado": "Marque o correto:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "quando seu amigo atender a seu chamado numa rodada, fale à vontade"
+            },
+            {
+                "correta": false,
+                "texto": "desde que sua estação seja mais forte, está garantido seu cãmbio com um colega numa rodada"
+            },
+            {
+                "correta": true,
+                "texto": "a estação que atende ao seu chamado deve ser breve, ou passarem os dois para outra freqüência para seus câmbios"
+            },
+            {
+                "correta": false,
+                "texto": "as rodadas são apenas encontros, ninguém tendo direito sobre a freqüência - você tem tanto direito como qualquer outro"
+            },
+            {
+                "correta": false,
+                "texto": "as rodadas servem para testes de potência, tendo preferência as mais possantes, que podem falar à vontade"
+            }
+        ]
+    },
+    {
+        "numero": 11,
+        "enunciado": "Assinale a resposta correta:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "o radioamadorismo é cheio de palavras características que devem ser usadas nas conversações a pouca distância"
+            },
+            {
+                "correta": false,
+                "texto": "dê vezes à sua conversação, pois poucas são as pessoas que estarão naquela freqüência que você está ocupando"
+            },
+            {
+                "correta": true,
+                "texto": "lembre-se que sua transmissão está sendo ouvida por muitos radio- escutas e do que disser nas faixas dependerá o nosso conceito"
+            },
+            {
+                "correta": false,
+                "texto": "você será tanto mais radioamador quanto mais usar os termos conhecidos como de seu vocabulário esdrúxulo"
+            },
+            {
+                "correta": false,
+                "texto": "é norma de gentileza usarem-se sempre os termos do radioamadorismo nas conversas pelas faixas"
+            }
+        ]
+    },
+    {
+        "numero": 12,
+        "enunciado": "Não interrompa quem estiver falando:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "salvo se for um grande amigo"
+            },
+            {
+                "correta": false,
+                "texto": "a não ser que queira alguma informação"
+            },
+            {
+                "correta": false,
+                "texto": "se sua estação é possante, você pode interromper sim"
+            },
+            {
+                "correta": false,
+                "texto": "no rádio não são observadas as normas de educação, em virtude das variações da propagação"
+            },
+            {
+                "correta": true,
+                "texto": "salvo se você tiver algo muito importante a acrescentar"
+            }
+        ]
+    },
+    {
+        "numero": 13,
+        "enunciado": "Qual a palavra usada para tráfego de emergência?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "atenção! atenção!"
+            },
+            {
+                "correta": false,
+                "texto": "emergência! emergência!"
+            },
+            {
+                "correta": true,
+                "texto": "break! break!"
+            },
+            {
+                "correta": false,
+                "texto": "silêncio! silêncio!"
+            },
+            {
+                "correta": false,
+                "texto": "licença! licença!"
+            }
+        ]
+    },
+    {
+        "numero": 14,
+        "enunciado": "Como se referir aos órgãos diretivos se deles discordar?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "pelas faixas, um direito seu"
+            },
+            {
+                "correta": false,
+                "texto": "opinando pela freqüência e criticando o que achar errado"
+            },
+            {
+                "correta": true,
+                "texto": "não extravasando sentimentos negativos pelas faixas quanto à atitude que não lhe agradem. procure diálogo"
+            },
+            {
+                "correta": false,
+                "texto": "pode comentar como achar melhor, mas só em rodadas de amigos"
+            },
+            {
+                "correta": false,
+                "texto": "estamos numa democracia, você pode falar o que quiser"
+            }
+        ]
+    },
+    {
+        "numero": 16,
+        "enunciado": "Em que freqüências você pode operar?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "conforme a propagação o permitir"
+            },
+            {
+                "correta": false,
+                "texto": "nas que lhe forem mais confortáveis"
+            },
+            {
+                "correta": false,
+                "texto": "onde encontrar maior número de amigos"
+            },
+            {
+                "correta": true,
+                "texto": "nunca nas que não lhe forem permitidas"
+            },
+            {
+                "correta": false,
+                "texto": "onde você marcar com os colegas"
+            }
+        ]
+    },
+    {
+        "numero": 17,
+        "enunciado": "Como deve ser o relacionamento entre os radioamadores?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "geralmente agrupam-se por classes"
+            },
+            {
+                "correta": true,
+                "texto": "os radioamadores ajudam-se mutuamente, de forma elegante, desinteressada e paciente, principalmente para com os principiantes"
+            },
+            {
+                "correta": false,
+                "texto": "cada radioamador já sabe o que quer e vai em frente sozinho"
+            },
+            {
+                "correta": false,
+                "texto": "os novos não precisam de ajuda, pois estudaram muito"
+            },
+            {
+                "correta": false,
+                "texto": "por suas categorias profissionais"
+            }
+        ]
+    },
+    {
+        "numero": 18,
+        "enunciado": "Que cuidados precisa ter um radioamador consciente?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "estar atualizada com os assuntos divulgados pela imprensa falada e escrita"
+            },
+            {
+                "correta": true,
+                "texto": "manter-se atualizado com a legislação radioamadorística e ter sempre presente os termos em que lhe foi conferido ser radioamador"
+            },
+            {
+                "correta": false,
+                "texto": "conhecer perfeitamente as capitais de todos os países do mundo"
+            },
+            {
+                "correta": false,
+                "texto": "ter sempre a mão a relação com os nomes de todos os ministros do presidente e do vice-presidente em exercício"
+            },
+            {
+                "correta": false,
+                "texto": "conhecer as marcas dos principais equipamentos industriais de radioamadorismo"
+            }
+        ]
+    },
+    {
+        "numero": 20,
+        "enunciado": "Com referência aos vários modos de transmissão:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "descubra o que mais lhe interessa e largue os demais"
+            },
+            {
+                "correta": false,
+                "texto": "defenda sua modalidade preferida e pratique-a em todas as faixas"
+            },
+            {
+                "correta": true,
+                "texto": "evite fazer críticas a outros modos de transmissão, pelo fato de não se dedicar a esta ou aquela modalidade operacional"
+            },
+            {
+                "correta": false,
+                "texto": "não responda aos QSL das modalidades que não são de sua preferência"
+            },
+            {
+                "correta": false,
+                "texto": "nas reuniões de radioamadores demonstre a superioridade da modalidade de seu agrado, não acatando opiniões em contrário"
+            }
+        ]
+    },
+    {
+        "numero": 21,
+        "enunciado": "Como operar nas faixas?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "se você foi prefixado pode operar em qualquer parte das faixas"
+            },
+            {
+                "correta": true,
+                "texto": "há divisões nas faixas para os vários tipos de operação. respeite os acordos que subdividem as faixas, para convivência harmoniosa"
+            },
+            {
+                "correta": false,
+                "texto": "a freqüência é de quem estiver ocupando, seja onde for"
+            },
+            {
+                "correta": false,
+                "texto": "se seu aparelho é possante, você pode ocupar qualquer freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "se a estação for DX, pode passar por cima, pois estamos no nosso país e ele não"
+            }
+        ]
+    },
+    {
+        "numero": 22,
+        "enunciado": "Como distribuir seus bate-papos:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "bate-papos locais devem dar preferência aos 40 ou 80 m ou então VHF ou UHF"
+            },
+            {
+                "correta": false,
+                "texto": "a propagação para longa distância melhora os bate-papos locais, e você pode aproveitar as faixas altas para tal"
+            },
+            {
+                "correta": false,
+                "texto": "os melhores locais para bate-papos são logo no início das faixas, junto com os DX"
+            },
+            {
+                "correta": false,
+                "texto": "estações mais fortes são o ideal para bate-papos em qualquer ponto das faixas"
+            },
+            {
+                "correta": false,
+                "texto": "bater papo nas freqüências altas é muito interessante, pois ainda permite marcar pontos com os DX se eles aparecerem"
+            }
+        ]
+    },
+    {
+        "numero": 23,
+        "enunciado": "Se houver necessidade de um QSO mais demorado, será demonstração de camaradagem aos demais colegas:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "continuar na mesma QRG"
+            },
+            {
+                "correta": false,
+                "texto": "fazer QSY para CW"
+            },
+            {
+                "correta": true,
+                "texto": "procurar uma janela fora dos segmentos de DX"
+            },
+            {
+                "correta": false,
+                "texto": "chamar o colega para o telefone"
+            },
+            {
+                "correta": false,
+                "texto": "pedir silêncio aos demais colegas"
+            }
+        ]
+    },
+    {
+        "numero": 24,
+        "enunciado": "O trote pelas QRG:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "deverá sempre ser praticado por ser gozado para quem pratica"
+            },
+            {
+                "correta": false,
+                "texto": "é uma demonstração de alegria por ser radioamador"
+            },
+            {
+                "correta": true,
+                "texto": "não deve ser praticado, pois em situações emergenciais a outra parte não acreditar naquilo que esteja ouvindo"
+            },
+            {
+                "correta": false,
+                "texto": "é um hábito comum no radioamadorismo e deverá ser sempre praticado"
+            },
+            {
+                "correta": false,
+                "texto": "é uma prática radioamadorística bastante confraternizante"
+            }
+        ]
+    },
+    {
+        "numero": 26,
+        "enunciado": "Como proceder se sua estação é poderosa?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "azar dos menores. entre em cima até ser atendido"
+            },
+            {
+                "correta": true,
+                "texto": "se sua estação é forte, aguarde, deixe o colega 'marcar' a figurinha, e quando ele terminar faça sua contestação. consideração é bom"
+            },
+            {
+                "correta": false,
+                "texto": "se sua estação é forte, coloque-se em boa posição e chame seguidamente, até ser contestado. é a lei da vida"
+            },
+            {
+                "correta": false,
+                "texto": "uma estação forte 'espanta' os demais, e, portanto suas chances são maiores"
+            },
+            {
+                "correta": false,
+                "texto": "escolha um local sobre estação fraca e que esteja sozinha, e chame várias vezes, que será atendido logo"
+            }
+        ]
+    },
+    {
+        "numero": 27,
+        "enunciado": "Ouvir que este ou aquele colega impediu ou dificultou o outro com QRM ou sinais de sua estação é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "muito agradável"
+            },
+            {
+                "correta": true,
+                "texto": "extremamente desagradável"
+            },
+            {
+                "correta": false,
+                "texto": "break! break!"
+            },
+            {
+                "correta": false,
+                "texto": "problema das autoridades competentes"
+            },
+            {
+                "correta": false,
+                "texto": "uma prática normal no radioamadorismo"
+            }
+        ]
+    },
+    {
+        "numero": 28,
+        "enunciado": "Evite criticar pela faixa, ou então comentar sobre assunto que não tem real conhecimento. A crítica pela faixa:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "é normal e faz parte da prática do bom radioamadorismo"
+            },
+            {
+                "correta": false,
+                "texto": "pode ser o início de um excelente e proveitoso QSO"
+            },
+            {
+                "correta": true,
+                "texto": "pode assumir graves proporções e causar males irreparáveis"
+            },
+            {
+                "correta": false,
+                "texto": "ajuda aos radioamadores iniciantes"
+            },
+            {
+                "correta": false,
+                "texto": "deve sempre ser praticada, pois ajuda a normalizar a QRG"
+            }
+        ]
+    },
+    {
+        "numero": 29,
+        "enunciado": "CQ 'dirigido' a determinada área ou estação:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "se você ouvir alguém chamando por determinado continente ou país conteste assim mesmo para o prazer do QSL"
+            },
+            {
+                "correta": false,
+                "texto": "seja qual for o país mencionado no CQ, entre assim mesmo e conteste, pois o colega pode querer seu país também e não sabe de sua presença"
+            },
+            {
+                "correta": false,
+                "texto": "finja que não compreendeu um CQ 'determinado com quem' e faça seu pontinho com o colega"
+            },
+            {
+                "correta": true,
+                "texto": "se o CQ indica continente - país. estação com quem quer falar, só conteste se você estiver nesses locais ou for a estação chamada, que são os pontos de interesse daquele colega"
+            },
+            {
+                "correta": false,
+                "texto": "você sendo radioamador também pode contestar e fazer um câmbio, pois para isso você estudou e foi prefixado, como ele"
+            }
+        ]
+    },
+    {
+        "numero": 30,
+        "enunciado": "Contatos com dxpedições:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "marque seu ponto e peça informações de como é o local clima e etc"
+            },
+            {
+                "correta": true,
+                "texto": "seja brevíssimo: nos 'pile ups' passe indicativo - reportagem... só!"
+            },
+            {
+                "correta": false,
+                "texto": "se não escutou o QTH insista e chame até ele passar o local para você"
+            },
+            {
+                "correta": false,
+                "texto": "marque o ponto, mas peça que lhe passe o QTR que é importantíssimo!"
+            },
+            {
+                "correta": false,
+                "texto": "pergunte se tem maneger - ou se tem endereço especial"
+            }
+        ]
+    },
+    {
+        "numero": 31,
+        "enunciado": "Velocidade no CW:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "conteste sempre na sua velocidade em CW: quem souber marca"
+            },
+            {
+                "correta": false,
+                "texto": "se o colega é iniciante, vá passando adiante para não perder tempo"
+            },
+            {
+                "correta": false,
+                "texto": "para chamar a atenção para seu QRA, faça chamadas bem demoradas de CQ... e bem rápidas"
+            },
+            {
+                "correta": true,
+                "texto": "mantenha a cadência com a qual foi contestado, e nunca opere mais rápido, pois isto é, básico no CW!"
+            },
+            {
+                "correta": false,
+                "texto": "comece aumentar gradativamente a velocidade para ver até onde o colega 'aguenta' o tranco"
+            }
+        ]
+    },
+    {
+        "numero": 32,
+        "enunciado": "Tempo das chamadas:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "faça seu CQ por muitas vezes para chamar a atenção dos colegas"
+            },
+            {
+                "correta": false,
+                "texto": "fique repetindo seus CQ bastante tempo, pois assim você pega os que passarem pela QRG"
+            },
+            {
+                "correta": true,
+                "texto": "não faça QSO intermináveis! faça chamadas curtas para que os colegas possam contestá-lo... ou então, caso contrário, irem embora, chateados"
+            },
+            {
+                "correta": false,
+                "texto": "CQ bem prolongados dão ciência de sua vontade de papear em CW"
+            },
+            {
+                "correta": false,
+                "texto": "faça QSO bem demorado, caprichando na QSD, para mostrar que você sabe telegrafia"
+            }
+        ]
+    },
+    {
+        "numero": 33,
+        "enunciado": "A 'caligrafia' do CW:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "CW é tudo uma coisa só! trate de correr mostrando ser 'cobra...'"
+            },
+            {
+                "correta": false,
+                "texto": "bata sua mensagem como você achar melhor... os outros que tratem de decifrá-la"
+            },
+            {
+                "correta": true,
+                "texto": "respeite os espaços - não emende as letras - não emende as palavras. ritmo é muito mais importante que velocidade - faça sua transmissão agradável e gostosa"
+            },
+            {
+                "correta": false,
+                "texto": "engane os colegas, transmitindo mais rápido do que pode receber"
+            },
+            {
+                "correta": false,
+                "texto": "uma vez aprendido, ninguém esquece mais o CW, não precisando treinos nem aperfeiçoamentos"
+            }
+        ]
+    },
+    {
+        "numero": 34,
+        "enunciado": "Funcionamento de uma repetidora:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "é muito fácil e é só ir entrando até se adaptar ao sistema"
+            },
+            {
+                "correta": false,
+                "texto": "como tudo no radioamadorismo, ninguém é dono da freqüência, e você tem todo o direito de usá-la também"
+            },
+            {
+                "correta": false,
+                "texto": "quem passou nos exames sabe perfeitamente como operar numa repetidora, que não tem segredo algum"
+            },
+            {
+                "correta": true,
+                "texto": "antes de entrar numa repetidora, escute, para familiarizar-se com o seu funcionamento, após o que, na hora certa dê seu indicativo para informar que está na freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "as repetidoras são sempre muito robustas e resistentes, e uma vez instalada quase que dispensam manutenção"
+            }
+        ]
+    },
+    {
+        "numero": 35,
+        "enunciado": "Operação em repetidora:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "é bom sempre ficar 'disparando' a repetidora para saber se seu vhf chega bem por lá"
+            },
+            {
+                "correta": false,
+                "texto": "para que nenhum colega 'entre' na repetidora, fale rápido e não dê oportunidade a que ele a use também"
+            },
+            {
+                "correta": true,
+                "texto": "faça uma pausa entre as transmissões: isto permitirá que outros radioamadores comuniquem suas presenças na freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "fique falando bastante, até que a repetidora 'corte' com seu temporizador"
+            },
+            {
+                "correta": false,
+                "texto": "as 'rodadas' pela repetidora são muito fáceis e reúnem gente de vários locais distantes"
+            }
+        ]
+    },
+    {
+        "numero": 36,
+        "enunciado": "Custos de uma repetidora:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "procure saber quem mantém a repetidora no ar, para reclamar em caso de defeito ou sair ela do ar"
+            },
+            {
+                "correta": false,
+                "texto": "convide seus amigos para ocuparem a repetidora, pois assim será mais fácil o papo com todos"
+            },
+            {
+                "correta": false,
+                "texto": "mantenha seu equipamento sempre no máximo de potência para 'firmar' a repetidora sem perigo de corte"
+            },
+            {
+                "correta": true,
+                "texto": "geralmente um grupo de pessoas é responsável pelas despesas de uma repetidora, com cabos, antenas, reparos etc... se você tem prazer em usá-la, procure colaborar, pois nada cai do céu, de graça"
+            },
+            {
+                "correta": false,
+                "texto": "se você usar bastante potência no seu equipamento, eventualmente poderá até acionar duas repetidoras com idênticas freqüências"
+            }
+        ]
+    },
+    {
+        "numero": 38,
+        "enunciado": "Antes de se fazer uma chamada geral, o radioamador deve:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "certificar-se de que a freqüência está livre"
+            },
+            {
+                "correta": false,
+                "texto": "existe propriedade para chamada geral"
+            },
+            {
+                "correta": false,
+                "texto": "aguardar um espaço de câmbio"
+            },
+            {
+                "correta": false,
+                "texto": "mencionar seu indicativo de chamada"
+            },
+            {
+                "correta": false,
+                "texto": "cumprimentar a rodada"
+            }
+        ]
+    },
+    {
+        "numero": 39,
+        "enunciado": "Em telecomunicações, freqüência é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "o número de vezes que por exemplo o valor Máximo do sinal ocorre por segundo"
+            },
+            {
+                "correta": false,
+                "texto": "o número de vezes que o semiperÍodo ocorre por segundo"
+            },
+            {
+                "correta": false,
+                "texto": "a razão entre a velocidade da onda e o período"
+            },
+            {
+                "correta": false,
+                "texto": "a razão entre o período e a velocidade da onda"
+            },
+            {
+                "correta": false,
+                "texto": "o produto do período pela velocidade da onda"
+            }
+        ]
+    },
+    {
+        "numero": 40,
+        "enunciado": "Para evitar interferência em outros equipamentos, o radioamador deve:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "trabalhar com a menor potência possível efetuar um bom sistema de aterramento trabalhar com filtro passa-baixas na saída de seu transmissor e operar com antenas e linhas balanceadas"
+            },
+            {
+                "correta": false,
+                "texto": "operar sempre em freqüência baixa, trabalhar com filtro passa-altas a saída de seu transmissor, operar com potência abaixo e 1 kw médios e com acoplador de antenas"
+            },
+            {
+                "correta": false,
+                "texto": "operar com alta potência porem com balun, ligar o fio terra no neutro da alimentação, operar sempre com cabos coaxiais grossos e ROE baixa"
+            },
+            {
+                "correta": false,
+                "texto": "trabalhar com filtros passa-baixas na entrada do equipamento interferido, trabalhar com filtro passa-altas na saída do transmissor, operar sem balun e efetuar o aterramento no neutro da alimentação"
+            },
+            {
+                "correta": false,
+                "texto": "trabalhar com antenas de baixa altura, operar somente acima de 20 mhz, conectar o balun ao neutro da alimentação e balancear a conexão de terra"
+            }
+        ]
+    },
+    {
+        "numero": 42,
+        "enunciado": "Conhecer o código *q* é vital no serviço de radioamadorismo ao aplicá-lo é que se observa as dificuldades. *QTH* quer dizer exatamente...:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "endereço do operador"
+            },
+            {
+                "correta": true,
+                "texto": "local onde o operador de rádio se encontra no momento, independente de seu endereço residencial"
+            },
+            {
+                "correta": false,
+                "texto": "local da estação adicional"
+            },
+            {
+                "correta": false,
+                "texto": "nome do operador"
+            },
+            {
+                "correta": false,
+                "texto": "nenhuma das anteriores esta correta"
+            }
+        ]
+    },
+    {
+        "numero": 43,
+        "enunciado": "Muitas vezes é possível detectar que há interferência conduzida através da fonte de alimentação operando-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "com filtro passa-baixas"
+            },
+            {
+                "correta": true,
+                "texto": "a bateria"
+            },
+            {
+                "correta": false,
+                "texto": "com filtro passa-altas"
+            },
+            {
+                "correta": false,
+                "texto": "com balun"
+            },
+            {
+                "correta": false,
+                "texto": "com antenas verticais"
+            }
+        ]
+    },
+    {
+        "numero": 45,
+        "enunciado": "Quando seu melhor amigo estiver modulando com dois colegas você...:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "pede oportunidade e já fala"
+            },
+            {
+                "correta": true,
+                "texto": "não o cumprimenta e não lhe dirige a palavra ate chegar a sua vez"
+            },
+            {
+                "correta": false,
+                "texto": "se estão em um grupo de amigos conversando assunto de seu interesse, lhe e facultada a palavra"
+            },
+            {
+                "correta": false,
+                "texto": "não existe vez de chegada quando se está entre amigos"
+            },
+            {
+                "correta": false,
+                "texto": "todas estão corretas"
+            }
+        ]
+    },
+    {
+        "numero": 46,
+        "enunciado": "São medidas comumente numa estação de radioamador as potências:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "direta e refletida no receptor"
+            },
+            {
+                "correta": true,
+                "texto": "direta e refletida na linha de transmissão e a gerada pelo transmissor"
+            },
+            {
+                "correta": false,
+                "texto": "rms gerada pelo transmissor"
+            },
+            {
+                "correta": false,
+                "texto": "rms entregue a antena"
+            },
+            {
+                "correta": false,
+                "texto": "rms direta no cabo"
+            }
+        ]
+    },
+    {
+        "numero": 1167,
+        "enunciado": "Um procedimento 'aceitável' para participar de uma rodada é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "o cumprimentar com 'bom dia' ou 'boa tarde' etc"
+            },
+            {
+                "correta": true,
+                "texto": "informar o QRA e aguardar"
+            },
+            {
+                "correta": false,
+                "texto": "solicitar 'break'"
+            },
+            {
+                "correta": false,
+                "texto": "pedir 'oportunidade'"
+            },
+            {
+                "correta": false,
+                "texto": "aproveitar um espaço de câmbio e iniciar a conversa"
+            }
+        ]
+    },
+    {
+        "numero": 49,
+        "enunciado": "Um transceptor é um equipamento:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "transistorizado para se acoplar uma antena"
+            },
+            {
+                "correta": true,
+                "texto": "composto por um receptor e um transmissor em uma mesma caixa"
+            },
+            {
+                "correta": false,
+                "texto": "que serve somente para receber as ondas de rádio"
+            },
+            {
+                "correta": false,
+                "texto": "que serve somente para transmitir as ondas de rádio"
+            },
+            {
+                "correta": false,
+                "texto": "que transmite e recebe sempre simultaneamente em modo full- duplex"
+            }
+        ]
+    },
+    {
+        "numero": 50,
+        "enunciado": "Uma antena artificial é :",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "uma antena feita artificialmente feita pelo radioamador"
+            },
+            {
+                "correta": true,
+                "texto": "uma carga resistiva pura não irradiante que serve para se efetuar experimentos que não necessitem da radiação"
+            },
+            {
+                "correta": false,
+                "texto": "é um irradiador invisível e, por isso, também chamado de antena fantasma"
+            },
+            {
+                "correta": false,
+                "texto": "uma antena usada somente para recepção e que possui baixo fluido"
+            },
+            {
+                "correta": false,
+                "texto": "uma antena que irradia igualmente em todas as direções e também chamada de irradiador isotrópico"
+            }
+        ]
+    },
+    {
+        "numero": 52,
+        "enunciado": "Batimento de freqüências é o fenômeno que ocorre:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "num circuito linear não produzindo freqüências novas além das de entrada"
+            },
+            {
+                "correta": false,
+                "texto": "num circuito linear, produzindo freqüência da ordem do dobro das de entrada "
+            },
+            {
+                "correta": true,
+                "texto": "num circuito não-linear produzindo a soma e as diferenças das freqüências de entrada"
+            },
+            {
+                "correta": false,
+                "texto": "num circuito não-linear não produzindo freqüências novas além das entradas"
+            },
+            {
+                "correta": false,
+                "texto": "num circuito linear, produzindo freqüências da ordem do triplo das de entrada"
+            }
+        ]
+    },
+    {
+        "numero": 53,
+        "enunciado": "Entende-se por conteste:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "termo em espanhol para dizer que a mensagem foi ouvida"
+            },
+            {
+                "correta": false,
+                "texto": "comunicação a longa distância"
+            },
+            {
+                "correta": true,
+                "texto": "concurso de contato entre radioamadores cujo objetivo e obter o maior número de comunicados em um menor tempo possível"
+            },
+            {
+                "correta": false,
+                "texto": "quando em uma chamada geral somos atendidos por muitos colegas"
+            },
+            {
+                "correta": false,
+                "texto": "nenhuma das anteriores"
+            }
+        ]
+    },
+    {
+        "numero": 55,
+        "enunciado": "Numa operação com o auxílio de repetidora, a transmissão e a recepção são efetuadas:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "na mesma freqüência e simultaneamente"
+            },
+            {
+                "correta": false,
+                "texto": "em freqüências diferentes e simultaneamente no caso de comunicação digital"
+            },
+            {
+                "correta": true,
+                "texto": "em freqüências diferentes e uma a cada vez no caso de comunicação de voz"
+            },
+            {
+                "correta": false,
+                "texto": "na mesma freqüência e uma de cada vez no caso de voz"
+            },
+            {
+                "correta": false,
+                "texto": "na mesma freqüência e uma de cada vez no caso CW"
+            }
+        ]
+    },
+    {
+        "numero": 57,
+        "enunciado": "Direitos exclusivos a uma freqüência são somente para:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "rodadas"
+            },
+            {
+                "correta": false,
+                "texto": "concurso"
+            },
+            {
+                "correta": false,
+                "texto": "contestes"
+            },
+            {
+                "correta": true,
+                "texto": "só para tráfego de mensagens de emergência"
+            },
+            {
+                "correta": false,
+                "texto": "não existe direito exclusivo em hipótese alguma"
+            }
+        ]
+    },
+    {
+        "numero": 58,
+        "enunciado": "O instrumento que serve para medir freqüência é o:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "amperímetro"
+            },
+            {
+                "correta": false,
+                "texto": "ohmímetro"
+            },
+            {
+                "correta": false,
+                "texto": "multímetro"
+            },
+            {
+                "correta": true,
+                "texto": "frequencímetro"
+            },
+            {
+                "correta": false,
+                "texto": "medidor de ROE"
+            }
+        ]
+    },
+    {
+        "numero": 59,
+        "enunciado": "Quando em uma rodada é solicitado a oportunidade, deverá atender o radioamador que:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "tiver o sinal mais forte"
+            },
+            {
+                "correta": false,
+                "texto": "for o mais amigo daquele que chamou"
+            },
+            {
+                "correta": false,
+                "texto": "aquele que terá a oportunidade do primeiro QSO com aquele que solicitou"
+            },
+            {
+                "correta": true,
+                "texto": "estiver na 'vez' com a palavra"
+            },
+            {
+                "correta": false,
+                "texto": "nenhuma das alternativas esta correta"
+            }
+        ]
+    },
+    {
+        "numero": 60,
+        "enunciado": "Quando você ouvir em CW um colega emitir as letras CL em final de QSO significa que:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "estou na escuta"
+            },
+            {
+                "correta": false,
+                "texto": "emergência! emergência!"
+            },
+            {
+                "correta": false,
+                "texto": "estou na escuta e posso responder"
+            },
+            {
+                "correta": true,
+                "texto": "a partir de agora estou em QRT"
+            },
+            {
+                "correta": false,
+                "texto": "somente as alternativas: a), c) e d) estão corretas"
+            }
+        ]
+    },
+    {
+        "numero": 61,
+        "enunciado": "Uma linha de transmissão é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "a parte da antena responsável pela radiação"
+            },
+            {
+                "correta": false,
+                "texto": "um fio vertical que serve para gerar as ondas eletromagnéticas"
+            },
+            {
+                "correta": false,
+                "texto": "um fio que acopla a energia do transmissor ao espaço"
+            },
+            {
+                "correta": true,
+                "texto": "um cabo que leva a energia do transmissor para a antena"
+            },
+            {
+                "correta": false,
+                "texto": "um cabo, sempre corretamente casado, que carrega a energia do transmissor"
+            }
+        ]
+    },
+    {
+        "numero": 63,
+        "enunciado": "No VHF é comum o uso de repetidoras; diz a legislação que depois de instalada, a mesma é de uso publico. O procedimento adequado será:",
+        "anulada": false,
+        "embaralhar_alternativas": false,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "procurar informar-se quem são os mantenedores da repetidora que você usa normalmente e contribuir com sua manutenção"
+            },
+            {
+                "correta": false,
+                "texto": "respeitar o timer da repetidora"
+            },
+            {
+                "correta": false,
+                "texto": "fazer câmbios curtos e objetivos"
+            },
+            {
+                "correta": false,
+                "texto": "nunca falar mal de uma repetidora quando estiver operando em outra, mesmo que esta não esteja de acordo com suas necessidades"
+            },
+            {
+                "correta": false,
+                "texto": "todas estão corretas"
+            }
+        ]
+    },
+    {
+        "numero": 64,
+        "enunciado": "Onda estacionária de uma linha de transmissão é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "uma onda que irradia da linha quando esta desbalanceada"
+            },
+            {
+                "correta": false,
+                "texto": "uma onda unidirecional que vai do transmissor para a antena"
+            },
+            {
+                "correta": false,
+                "texto": "uma onda que carrega a potência do transmissor deste para a antena"
+            },
+            {
+                "correta": false,
+                "texto": "uma onda resultante do casamento correto da linha"
+            },
+            {
+                "correta": true,
+                "texto": "o resultado da presença de duas ondas na linha, uma direta e a outra refletida"
+            }
+        ]
+    },
+    {
+        "numero": 67,
+        "enunciado": "Quando uma estação faz um CQ dirigido a um país ou região geográfica, ouvindo mas não estando no local mencionado você deve:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "atender assim mesmo, pois o colega pode querer falar com você"
+            },
+            {
+                "correta": false,
+                "texto": "avisar a ele que não tem ninguém na freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "avisar que a região solicitada não se faz presente"
+            },
+            {
+                "correta": false,
+                "texto": "aproveitando a oportunidade, você pedirá um QSL"
+            },
+            {
+                "correta": true,
+                "texto": "você não deverá se manifestar"
+            }
+        ]
+    },
+    {
+        "numero": 68,
+        "enunciado": "Um transmissor é um equipamento:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "que recebe a energia proveniente de uma antena"
+            },
+            {
+                "correta": false,
+                "texto": "para transmissão somente de sinais digitais"
+            },
+            {
+                "correta": false,
+                "texto": "sempre construído com válvulas que serve para transmitir os sinais de rádio"
+            },
+            {
+                "correta": false,
+                "texto": "para transmissão de sinais analógicos"
+            },
+            {
+                "correta": true,
+                "texto": "que transforma o sinal básico de informação em sinais de radiofreqüência a ser entregue a uma antena"
+            }
+        ]
+    },
+    {
+        "numero": 69,
+        "enunciado": "Uma estação repetidora de radioamador é um equipamento:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "para se receber e transmitir simultaneamente áudio e vídeo"
+            },
+            {
+                "correta": false,
+                "texto": "que transmite e recebe simultaneamente na mesma freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "que efetua somente transmissão de ATV em lugares de difícil acesso"
+            },
+            {
+                "correta": false,
+                "texto": "exclusivamente para transmissão de sinais de voz"
+            },
+            {
+                "correta": true,
+                "texto": "para intermediar o contato entre duas estações que normal mente não conseguem comunicação entre si"
+            }
+        ]
+    },
+    {
+        "numero": 1160,
+        "enunciado": "A quem pertence o uso da freqüência em rede ou em operação individual?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "pertence a quem estiver ocupando no momento"
+            },
+            {
+                "correta": false,
+                "texto": "pertence a quem tiver estação mais forte"
+            },
+            {
+                "correta": false,
+                "texto": "ao radioamador com mais anos de prefixo"
+            },
+            {
+                "correta": false,
+                "texto": "as radioamadoras, caso estejam na freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "à Anatel"
+            }
+        ]
+    },
+    {
+        "numero": 1161,
+        "enunciado": "Como 'entrar' na freqüência:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "sintonize seu equipamento e pode chamar seu CQ, pois sua estação sendo forte deve abafar quem estiver na freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "se alguém contestou seu amigo, entre também com maior potência e fale com seu amigo, pois os direitos são iguais"
+            },
+            {
+                "correta": true,
+                "texto": "espere o resultado da contestação, e só depois de verificar que não houve resposta que você deve contestar. quem fez o CQ não deve ter ouvido a contestação inicial"
+            },
+            {
+                "correta": false,
+                "texto": "se alguém contesta o CQ de um colega e você contestou também, seja rápido e conteste novamente sem esperar nada"
+            },
+            {
+                "correta": false,
+                "texto": "CQ é chamada geral e, portanto você também pode contestar, mesmo que outro colega já o esteja fazendo"
+            }
+        ]
+    },
+    {
+        "numero": 1162,
+        "enunciado": "Num 'pile-up' o radioamador deve:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "manter QSO com uma só estação"
+            },
+            {
+                "correta": false,
+                "texto": "informar somente o QSA"
+            },
+            {
+                "correta": true,
+                "texto": "registrar por ordem de chegada e confirmar o QSO"
+            },
+            {
+                "correta": false,
+                "texto": "sendo várias estações de um só local, deve-se atender apenas uma e confirmar a região ou país"
+            },
+            {
+                "correta": false,
+                "texto": "atender somente um radioamador de cada região e informar que o seu endereço está no guia"
+            }
+        ]
+    },
+    {
+        "numero": 1163,
+        "enunciado": "O termo 'break' é utilizado para:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "solicitar oportunidade"
+            },
+            {
+                "correta": true,
+                "texto": "para informar comprovada emergência"
+            },
+            {
+                "correta": false,
+                "texto": "para cumprimentar os presentes"
+            },
+            {
+                "correta": false,
+                "texto": "para solicitar um QSA;para participar de um QSO"
+            },
+            {
+                "correta": false,
+                "texto": "para participar de um QSO"
+            }
+        ]
+    },
+    {
+        "numero": 1164,
+        "enunciado": "Para efeito de DX, quantos países há no território brasileiro?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "o Brasil é um país e assim é considerado"
+            },
+            {
+                "correta": false,
+                "texto": "tantos quanto desejar, basta haver um contes"
+            },
+            {
+                "correta": false,
+                "texto": "somente a ilha de Guaratuba pode ser considerada como mais um país dentro do Brasil"
+            },
+            {
+                "correta": false,
+                "texto": "somente Santos por sua posição bem definida pode ser considerada, para efeito de DX, um país"
+            },
+            {
+                "correta": true,
+                "texto": "quatro países: o Brasil, a ilha de Fernando de Noronha, as ilhas de São Pedro e São Paulo e ilha de trindade são consideradas como países para efeito de DX"
+            }
+        ]
+    },
+    {
+        "numero": 1165,
+        "enunciado": "Quando uma estação operar em 'split' o radioamador deve:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "ter um equipamento com VFO remoto para acompanhar o QSO em transmissão e recepção"
+            },
+            {
+                "correta": false,
+                "texto": "ter um equipamento com a mesma marca"
+            },
+            {
+                "correta": false,
+                "texto": "pertencer a mesma classe do radioamador que estiver operando"
+            },
+            {
+                "correta": false,
+                "texto": "tentar um QSO de qualquer maneira para faturar a figurinha"
+            },
+            {
+                "correta": false,
+                "texto": "não vale a pena tentar, este tipo de antena e de fabricação artesanal e poucos a possuem"
+            }
+        ]
+    },
+    {
+        "numero": 1166,
+        "enunciado": "Que assuntos devem ser evitados pelas faixas?",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "assuntos relacionados com órgãos do governo"
+            },
+            {
+                "correta": false,
+                "texto": "assuntos que impliquem em consultas a documentos especificados"
+            },
+            {
+                "correta": false,
+                "texto": "assuntos referentes ao currículo das academias militares"
+            },
+            {
+                "correta": true,
+                "texto": "qualquer propaganda política, e atos que caracterizariam mercantilização do radioamadorismo, ou atividades comerciais"
+            },
+            {
+                "correta": false,
+                "texto": "assuntos relativos a clubes de futebol, por serem polêmicos"
+            }
+        ]
+    },
+    {
+        "numero": 1168,
+        "enunciado": "Um receptor é um equipamento:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "que produz energia enviada a uma antena"
+            },
+            {
+                "correta": true,
+                "texto": "que transforma um sinal enviado de radiofreqüência entregue pela antena em sinal básico de informação"
+            },
+            {
+                "correta": false,
+                "texto": "sempre transistorizado que serve para receber os sinais de rádio"
+            },
+            {
+                "correta": false,
+                "texto": "para recepção somente de sinais digitais"
+            },
+            {
+                "correta": false,
+                "texto": "para recepção somente de sinais analógicos"
+            }
+        ]
+    }
+]
