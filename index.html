@@ -122,6 +122,7 @@
                 provas: [
                     { titulo: "Legislação de Telecomunicações", arquivo: "anatel-legislacao.json" },
                     { titulo: "Técnica e Ética Operacional", arquivo: "anatel-operacional.json" },
+                    { titulo: "Eletrônica e Eletricidade", arquivo: "anatel-eletrica.json" },
                 ],
                 provaSelecionada: null,
 				perguntas: [],
@@ -171,8 +172,7 @@
 					this.perguntas = resultado
 				},
 				selecionarPerguntas() {
-					this.perguntasSelecionadas = _.shuffle(this.perguntas).slice(0, 20)
-					this.perguntasSelecionadas.map(function(pergunta) {
+                    this.perguntasSelecionadas = _(this.perguntas).filter({ anulada: false }).shuffle().slice(0, 20).forEach(function(pergunta) {
                         if (pergunta.embaralhar_alternativas) {
                             pergunta.alternativas = _.shuffle(pergunta.alternativas)
                         }

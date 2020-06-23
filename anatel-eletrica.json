@@ -1,0 +1,2886 @@
+[
+    {
+        "numero": 635,
+        "enunciado": "A maior intensidade do campo magnético produzido por um imã localiza-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "na direção norte"
+            },
+            {
+                "correta": false,
+                "texto": "na extremidade direita"
+            },
+            {
+                "correta": false,
+                "texto": "na extremidade esquerda"
+            },
+            {
+                "correta": false,
+                "texto": "na superfície exterior"
+            },
+            {
+                "correta": true,
+                "texto": "no centro da parte interior"
+            }
+        ]
+    },
+    {
+        "numero": 636,
+        "enunciado": "Artificialmente, o campo magnético é criado pelo:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "resistor"
+            },
+            {
+                "correta": false,
+                "texto": "capacitor"
+            },
+            {
+                "correta": true,
+                "texto": "indutor"
+            },
+            {
+                "correta": false,
+                "texto": "transistor"
+            },
+            {
+                "correta": false,
+                "texto": "diodo"
+            }
+        ]
+    },
+    {
+        "numero": 638,
+        "enunciado": "O único elemento não-eletromagnético da relação abaixo é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "o transformador"
+            },
+            {
+                "correta": true,
+                "texto": "o capacitor"
+            },
+            {
+                "correta": false,
+                "texto": "o solenóide"
+            },
+            {
+                "correta": false,
+                "texto": "o relé"
+            },
+            {
+                "correta": false,
+                "texto": "a bobina"
+            }
+        ]
+    },
+    {
+        "numero": 639,
+        "enunciado": "Fazendo-se variar alternadamente o campo magnético que atravessa uma bobina conectada em um circuito fechado, podemos afirmar que:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "circula uma corrente contínua na mesma"
+            },
+            {
+                "correta": true,
+                "texto": "circula uma corrente alternada na mesma"
+            },
+            {
+                "correta": false,
+                "texto": "não circula corrente na mesma"
+            },
+            {
+                "correta": false,
+                "texto": "a intensidade do campo será aumentada"
+            },
+            {
+                "correta": false,
+                "texto": "o período de alternância do campo depende do comprimento da bobina"
+            }
+        ]
+    },
+    {
+        "numero": 640,
+        "enunciado": "A potência consumida por uma resistência elétrica em 2 horas é de 2,2 kWh quando ligada à rede de 110 V. A corrente que circula pela resistência é de:",
+        "anulada": true,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "10 mA"
+            },
+            {
+                "correta": false,
+                "texto": "1,1 A"
+            },
+            {
+                "correta": true,
+                "texto": "0,41666666"
+            },
+            {
+                "correta": false,
+                "texto": "20 A"
+            },
+            {
+                "correta": false,
+                "texto": "25 A"
+            }
+        ]
+    },
+    {
+        "numero": 641,
+        "enunciado": "Uma resistência de 220 ohm submetida a uma tensão de 110 V durante 10 segundos. A energia térmica dissipada é de:",
+        "anulada": true,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,05 J"
+            },
+            {
+                "correta": false,
+                "texto": "5,5 J"
+            },
+            {
+                "correta": true,
+                "texto": "55 J"
+            },
+            {
+                "correta": false,
+                "texto": "20 W"
+            },
+            {
+                "correta": false,
+                "texto": "200 W"
+            }
+        ]
+    },
+    {
+        "numero": 642,
+        "enunciado": "A energia térmica dissipada na unidade de tempo por um resistor é medida em:",
+        "anulada": true,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "ampère"
+            },
+            {
+                "correta": false,
+                "texto": "henry"
+            },
+            {
+                "correta": false,
+                "texto": "ohm"
+            },
+            {
+                "correta": false,
+                "texto": "volt"
+            },
+            {
+                "correta": true,
+                "texto": "joule"
+            }
+        ]
+    },
+    {
+        "numero": 643,
+        "enunciado": "A variação da corrente em uma bobina induz uma tensão na mesma. Este fenômeno chama-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "capacitância"
+            },
+            {
+                "correta": false,
+                "texto": "indutância"
+            },
+            {
+                "correta": false,
+                "texto": "reatância indutiva"
+            },
+            {
+                "correta": false,
+                "texto": "indutância mútua"
+            },
+            {
+                "correta": true,
+                "texto": "auto-indutância"
+            }
+        ]
+    },
+    {
+        "numero": 644,
+        "enunciado": "A corrente elétrica é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "Coulomb"
+            },
+            {
+                "correta": false,
+                "texto": "volt"
+            },
+            {
+                "correta": false,
+                "texto": "Joule"
+            },
+            {
+                "correta": false,
+                "texto": "Henry"
+            },
+            {
+                "correta": true,
+                "texto": "Ampère"
+            }
+        ]
+    },
+    {
+        "numero": 645,
+        "enunciado": "A resistência elétrica é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "joule"
+            },
+            {
+                "correta": false,
+                "texto": "henry"
+            },
+            {
+                "correta": false,
+                "texto": "farad"
+            },
+            {
+                "correta": false,
+                "texto": "coulomb"
+            },
+            {
+                "correta": true,
+                "texto": "ohm"
+            }
+        ]
+    },
+    {
+        "numero": 646,
+        "enunciado": "Num resistor, a cor da quarta faixa representa:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "o coeficiente de temperatura"
+            },
+            {
+                "correta": false,
+                "texto": "a dissipação máxima de potência"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão de ruptura"
+            },
+            {
+                "correta": false,
+                "texto": "o tempo de vida útil"
+            },
+            {
+                "correta": true,
+                "texto": "a tolerância"
+            }
+        ]
+    },
+    {
+        "numero": 647,
+        "enunciado": "Para que uma fonte de tensão de 20 V gere uma corrente de 0,4 A a mesma deve ser aplicada sobre uma resistência de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,02 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "8 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "19,6 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "20,4 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "50 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 648,
+        "enunciado": "Pode-se afirmar que a intensidade de campo elétrico gerado por um corpo eletricamente carregado:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "não varia com a distância"
+            },
+            {
+                "correta": false,
+                "texto": "é diretamente proporcional à distância"
+            },
+            {
+                "correta": false,
+                "texto": "é inversamente proporcional à distância"
+            },
+            {
+                "correta": false,
+                "texto": "é diretamente proporcional ao quadrado da distância"
+            },
+            {
+                "correta": true,
+                "texto": "é inversamente proporcional ao quadrado da distância"
+            }
+        ]
+    },
+    {
+        "numero": 649,
+        "enunciado": "A associação série de 3 resistores de 20 ohm cada um equivale a uma resistência de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "6,67 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "10 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "15 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "20 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "60 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 650,
+        "enunciado": "A capacitância de um capacitor é especificada pela:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "tensão"
+            },
+            {
+                "correta": false,
+                "texto": "corrente"
+            },
+            {
+                "correta": false,
+                "texto": "reatância"
+            },
+            {
+                "correta": true,
+                "texto": "especificação do fabricante"
+            }
+        ]
+    },
+    {
+        "numero": 651,
+        "enunciado": "Um campo magnético é produzido por:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "aquecimento de um condutor"
+            },
+            {
+                "correta": false,
+                "texto": "campos elétricos"
+            },
+            {
+                "correta": false,
+                "texto": "uma diferença de potencial entre dois pontos"
+            },
+            {
+                "correta": false,
+                "texto": "cargas elétricas em repouso"
+            },
+            {
+                "correta": true,
+                "texto": "cargas elétricas em movimento"
+            }
+        ]
+    },
+    {
+        "numero": 652,
+        "enunciado": "A indutância é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "farad"
+            },
+            {
+                "correta": false,
+                "texto": "coulomb"
+            },
+            {
+                "correta": false,
+                "texto": "ohm"
+            },
+            {
+                "correta": false,
+                "texto": "hertz"
+            },
+            {
+                "correta": true,
+                "texto": "henry"
+            }
+        ]
+    },
+    {
+        "numero": 653,
+        "enunciado": "Para que o valor eficaz de uma tensão senoidal seja de 5 V, a mesma deve ter um valor máximo de aproximadamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "3 V"
+            },
+            {
+                "correta": false,
+                "texto": "4 V"
+            },
+            {
+                "correta": false,
+                "texto": "5 V"
+            },
+            {
+                "correta": false,
+                "texto": "6 V"
+            },
+            {
+                "correta": true,
+                "texto": "7 V"
+            }
+        ]
+    },
+    {
+        "numero": 656,
+        "enunciado": "Em um circuito de C A RC-Paralelo a corrente no capacitor, em relação à tensão, fica:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "atrasada de 45°"
+            },
+            {
+                "correta": false,
+                "texto": "atrasada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 45°"
+            },
+            {
+                "correta": true,
+                "texto": "adiantada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "em fase"
+            }
+        ]
+    },
+    {
+        "numero": 657,
+        "enunciado": "Uma das funções desempenhadas pelo capacitor é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "transformar C.A em C.C"
+            },
+            {
+                "correta": false,
+                "texto": "transformar C.C em CA"
+            },
+            {
+                "correta": false,
+                "texto": "bloquear a passagem de C.A"
+            },
+            {
+                "correta": true,
+                "texto": "bloquear a passagem de C.C"
+            },
+            {
+                "correta": false,
+                "texto": "permitir a passagem de CC"
+            }
+        ]
+    },
+    {
+        "numero": 658,
+        "enunciado": "Reduzindo-se a metade a indutância de um circuito de C.A a reatância indutiva do mesmo fica:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "quatro vezes maior"
+            },
+            {
+                "correta": false,
+                "texto": "quatro vezes menor"
+            },
+            {
+                "correta": false,
+                "texto": "duas vezes maior"
+            },
+            {
+                "correta": true,
+                "texto": "duas vezes menor"
+            },
+            {
+                "correta": false,
+                "texto": "constante"
+            }
+        ]
+    },
+    {
+        "numero": 660,
+        "enunciado": "O valor RMS de uma corrente senoidal é 5 mA. O valor máximo desta corrente é aproximadamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "2,5 mA"
+            },
+            {
+                "correta": false,
+                "texto": "3,5 mA"
+            },
+            {
+                "correta": false,
+                "texto": "5 mA"
+            },
+            {
+                "correta": true,
+                "texto": "7 mA"
+            },
+            {
+                "correta": false,
+                "texto": "10 mA"
+            }
+        ]
+    },
+    {
+        "numero": 661,
+        "enunciado": "O valor da amplitude de uma tensão senoidal é 10 V. O valor eficaz desta tensão é aproximadamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "1 V"
+            },
+            {
+                "correta": false,
+                "texto": "3 V"
+            },
+            {
+                "correta": false,
+                "texto": "5 V"
+            },
+            {
+                "correta": true,
+                "texto": "7 V"
+            },
+            {
+                "correta": false,
+                "texto": "9 V"
+            }
+        ]
+    },
+    {
+        "numero": 662,
+        "enunciado": "A força elétrica que provoca o movimento de cargas em um condutor é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "a condutância"
+            },
+            {
+                "correta": false,
+                "texto": "a temperatura"
+            },
+            {
+                "correta": false,
+                "texto": "o campo magnético"
+            },
+            {
+                "correta": true,
+                "texto": "a tensão elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "a freqüência"
+            }
+        ]
+    },
+    {
+        "numero": 663,
+        "enunciado": "Dependendo do local, a tensão elétrica da rede domiciliar é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "50 V ou 60 V"
+            },
+            {
+                "correta": false,
+                "texto": "60 V ou 110 V"
+            },
+            {
+                "correta": false,
+                "texto": "110 V ou 50 V"
+            },
+            {
+                "correta": true,
+                "texto": "110 V ou 220 V"
+            },
+            {
+                "correta": false,
+                "texto": "220 V ou 60 V"
+            }
+        ]
+    },
+    {
+        "numero": 664,
+        "enunciado": "Por convenção considera-se a corrente elétrica fruindo do potencial:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "positivo para o potencial neutro"
+            },
+            {
+                "correta": false,
+                "texto": "negativo para o potencial neutro"
+            },
+            {
+                "correta": false,
+                "texto": "neutro para o potencial positivo"
+            },
+            {
+                "correta": true,
+                "texto": "positivo para o potencial negativo"
+            },
+            {
+                "correta": false,
+                "texto": "negativo para o potencial positivo"
+            }
+        ]
+    },
+    {
+        "numero": 665,
+        "enunciado": "O volt é a unidade de medida da:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "potência elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "capacitância"
+            },
+            {
+                "correta": false,
+                "texto": "freqüência"
+            },
+            {
+                "correta": true,
+                "texto": "tensão elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "reatância"
+            }
+        ]
+    },
+    {
+        "numero": 666,
+        "enunciado": "A corrente que flui por um circuito é diretamente proporcional à tensão e inversamente proporcional à resistência Esta definição é da Lei de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "Lens"
+            },
+            {
+                "correta": false,
+                "texto": "Coulomb"
+            },
+            {
+                "correta": false,
+                "texto": "Newton ohm"
+            },
+            {
+                "correta": true,
+                "texto": "Ohm"
+            },
+            {
+                "correta": false,
+                "texto": "Kirchhof"
+            }
+        ]
+    },
+    {
+        "numero": 667,
+        "enunciado": "Determinado circuito precisa ser alimentado com 60 V e 0,2 A. Dispondo-se de uma fonte de 300 V, deve-se colocar em série com o circuito uma resistência de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "12 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "60 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "300 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "1K2 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "1K5 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 668,
+        "enunciado": "Uma fonte de 50 V alimenta um circuito de 20 ohm. Constatou-se que a corrente que circula pelo circuito é de 0,5 A. Então existe em série com o circuito uma resistência de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "10 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "25 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "35 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "80 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "100 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 669,
+        "enunciado": "Convencionalmente o fluxo elétrico em um condutor metálico é constituído de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "mesons"
+            },
+            {
+                "correta": false,
+                "texto": "positrons"
+            },
+            {
+                "correta": false,
+                "texto": "prótons"
+            },
+            {
+                "correta": true,
+                "texto": "elétrons"
+            },
+            {
+                "correta": false,
+                "texto": "nêutrons"
+            }
+        ]
+    },
+    {
+        "numero": 671,
+        "enunciado": "Para obter uma resistência equivalente de 1 K ohm é necessário associar:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "3 resistores de 10 ohm em paralelo"
+            },
+            {
+                "correta": false,
+                "texto": "3 resistores de 10 ohm em série"
+            },
+            {
+                "correta": false,
+                "texto": "4 resistores de 250 ohm em paralelo"
+            },
+            {
+                "correta": true,
+                "texto": "5 resistores de 200 ohm em série"
+            },
+            {
+                "correta": false,
+                "texto": "10 resistores de 100 ohm em paralelo"
+            }
+        ]
+    },
+    {
+        "numero": 672,
+        "enunciado": "A capacitância é determinada pela relação entre:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "tensão e corrente"
+            },
+            {
+                "correta": false,
+                "texto": "tensão e reatância"
+            },
+            {
+                "correta": false,
+                "texto": "reatância e corrente"
+            },
+            {
+                "correta": true,
+                "texto": "carga e tensão"
+            },
+            {
+                "correta": false,
+                "texto": "carga e reatância"
+            }
+        ]
+    },
+    {
+        "numero": 673,
+        "enunciado": "Num circuito RC o capacitor é de 1000 μF. Para a constante de tempo do circuito seja de 1 segundo, o valor do resistor deve ser de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "1 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "10 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "100 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "1K ohm"
+            },
+            {
+                "correta": false,
+                "texto": "10K ohm"
+            }
+        ]
+    },
+    {
+        "numero": 674,
+        "enunciado": "A força eletromotriz nos condutores elétricos gera uma corrente de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "núcleos atômicos"
+            },
+            {
+                "correta": false,
+                "texto": "nêutrons"
+            },
+            {
+                "correta": false,
+                "texto": "fótons"
+            },
+            {
+                "correta": true,
+                "texto": "elétrons"
+            },
+            {
+                "correta": false,
+                "texto": "moléculas"
+            }
+        ]
+    },
+    {
+        "numero": 675,
+        "enunciado": "O período de uma onda senoidal é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "proporcional a amplitude"
+            },
+            {
+                "correta": false,
+                "texto": "proporcional à freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "inversamente proporcional à amplitude"
+            },
+            {
+                "correta": true,
+                "texto": "inversamente proporcional à freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "independente da freqüência"
+            }
+        ]
+    },
+    {
+        "numero": 676,
+        "enunciado": "O valor eficaz de uma tensão senoidal é 100 V. O valor máximo desta tensão é aproximadamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "50 V"
+            },
+            {
+                "correta": false,
+                "texto": "110 V"
+            },
+            {
+                "correta": false,
+                "texto": "121 V"
+            },
+            {
+                "correta": true,
+                "texto": "141 V"
+            },
+            {
+                "correta": false,
+                "texto": "180 V"
+            }
+        ]
+    },
+    {
+        "numero": 677,
+        "enunciado": "Em um circuito de C.A RL-série a tensão no indutor, em relação à corrente, fica:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "atrasada de 45°"
+            },
+            {
+                "correta": false,
+                "texto": "atrasada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 45°"
+            },
+            {
+                "correta": true,
+                "texto": "adiantada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "em fase"
+            }
+        ]
+    },
+    {
+        "numero": 678,
+        "enunciado": "A potência elétrica é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "newton"
+            },
+            {
+                "correta": false,
+                "texto": "coulomb"
+            },
+            {
+                "correta": true,
+                "texto": "watt"
+            },
+            {
+                "correta": false,
+                "texto": "volt"
+            },
+            {
+                "correta": false,
+                "texto": "hertz"
+            }
+        ]
+    },
+    {
+        "numero": 679,
+        "enunciado": "Densidade de fluxo magnético é definida como sendo:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "campo magnético gerado por uma carga em repouso"
+            },
+            {
+                "correta": false,
+                "texto": "o campo elétrico gerado por uma carga em movimento"
+            },
+            {
+                "correta": true,
+                "texto": "o número de linhas de força por unidade de área"
+            },
+            {
+                "correta": false,
+                "texto": "a carga de um ohm capacitor"
+            },
+            {
+                "correta": false,
+                "texto": "a reatância de um indutor"
+            }
+        ]
+    },
+    {
+        "numero": 680,
+        "enunciado": "A variação de corrente em uma bobina induz corrente em uma bobina próxima. Este fenômeno chama-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "capacitância"
+            },
+            {
+                "correta": false,
+                "texto": "indutância"
+            },
+            {
+                "correta": true,
+                "texto": "indutância mutua"
+            },
+            {
+                "correta": false,
+                "texto": "auto-indutância"
+            },
+            {
+                "correta": false,
+                "texto": "reatância indutiva"
+            }
+        ]
+    },
+    {
+        "numero": 681,
+        "enunciado": "Por convenção o potencial da terra é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "energizado"
+            },
+            {
+                "correta": false,
+                "texto": "polarizado"
+            },
+            {
+                "correta": true,
+                "texto": "nulo"
+            },
+            {
+                "correta": false,
+                "texto": "negativo"
+            },
+            {
+                "correta": false,
+                "texto": "positivo"
+            }
+        ]
+    },
+    {
+        "numero": 682,
+        "enunciado": "Um resistor com as cores vermelha, verde, marrom apresenta uma resistência de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "25 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "25,1 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "250 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "251 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "270 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 683,
+        "enunciado": "As unidades relacionadas na Lei de ohm são:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "volt, coulomb, ohm"
+            },
+            {
+                "correta": false,
+                "texto": "ohm., tensão, hertz 1"
+            },
+            {
+                "correta": true,
+                "texto": "ampère, ohm , volt"
+            },
+            {
+                "correta": false,
+                "texto": "ampère, resistência, hertz"
+            },
+            {
+                "correta": false,
+                "texto": "volt, corrente, coulomb"
+            }
+        ]
+    },
+    {
+        "numero": 684,
+        "enunciado": "Por uma resistência de 100 ohm circula uma corrente de 0,1 A. A tensão aplicada sobre o resistor ê:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,1 V"
+            },
+            {
+                "correta": false,
+                "texto": "1 V"
+            },
+            {
+                "correta": true,
+                "texto": "10 V"
+            },
+            {
+                "correta": false,
+                "texto": "100 V"
+            },
+            {
+                "correta": false,
+                "texto": "1000 V"
+            }
+        ]
+    },
+    {
+        "numero": 685,
+        "enunciado": "Uma fonte de 15 V é aplicada sobre uma resistência de 10 K ohm. Diminuindo o valor da resistência pode-se afirmar que a corrente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "diminui logaritmicamente"
+            },
+            {
+                "correta": false,
+                "texto": "aumenta logaritmicamente"
+            },
+            {
+                "correta": true,
+                "texto": "aumenta linearmente"
+            },
+            {
+                "correta": false,
+                "texto": "diminui linearmente"
+            },
+            {
+                "correta": false,
+                "texto": "permanece constante"
+            }
+        ]
+    },
+    {
+        "numero": 686,
+        "enunciado": "O fenômeno pelo qual a corrente elétrica produz calor ao atravessar um material resistivo é conhecido como:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "resistividade"
+            },
+            {
+                "correta": false,
+                "texto": "permissividade"
+            },
+            {
+                "correta": true,
+                "texto": "efeito Joule"
+            },
+            {
+                "correta": false,
+                "texto": "auto-indução"
+            },
+            {
+                "correta": false,
+                "texto": "capacidade do condutor"
+            }
+        ]
+    },
+    {
+        "numero": 687,
+        "enunciado": "Uma resistência de 100 ohm submetida a uma tensão de 100 V dissipa:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0 W"
+            },
+            {
+                "correta": false,
+                "texto": "1 W"
+            },
+            {
+                "correta": true,
+                "texto": "100 W"
+            },
+            {
+                "correta": false,
+                "texto": "200 W"
+            },
+            {
+                "correta": false,
+                "texto": "10 kW"
+            }
+        ]
+    },
+    {
+        "numero": 688,
+        "enunciado": "A reação de um corpo neutro localizado no interior do campo elétrico produzido por carga positiva é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "aproximar-se mais da carga positiva"
+            },
+            {
+                "correta": false,
+                "texto": "afastar-se do campo"
+            },
+            {
+                "correta": true,
+                "texto": "manter-se indiferente ao campo"
+            },
+            {
+                "correta": false,
+                "texto": "positivar-se"
+            },
+            {
+                "correta": false,
+                "texto": "negativar-se"
+            }
+        ]
+    },
+    {
+        "numero": 689,
+        "enunciado": "O capacitor é um elemento que:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "gera energia"
+            },
+            {
+                "correta": false,
+                "texto": "consome energia"
+            },
+            {
+                "correta": true,
+                "texto": "armazena energia"
+            },
+            {
+                "correta": false,
+                "texto": "transforma energia"
+            },
+            {
+                "correta": false,
+                "texto": "gera calor"
+            }
+        ]
+    },
+    {
+        "numero": 690,
+        "enunciado": "Henry é a unidade de medida de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "capacitância"
+            },
+            {
+                "correta": true,
+                "texto": "indutância"
+            },
+            {
+                "correta": false,
+                "texto": "reatância"
+            },
+            {
+                "correta": false,
+                "texto": "impedância"
+            }
+        ]
+    },
+    {
+        "numero": 691,
+        "enunciado": "Campos magnéticos variáveis:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "são gerados por imãs naturais"
+            },
+            {
+                "correta": false,
+                "texto": "são gerados por corrente contínua"
+            },
+            {
+                "correta": true,
+                "texto": "induzem corrente elétrica em condutores próximos"
+            },
+            {
+                "correta": false,
+                "texto": "induzem corrente elétrica somente em isolantes elétricos"
+            },
+            {
+                "correta": false,
+                "texto": "não existem"
+            }
+        ]
+    },
+    {
+        "numero": 692,
+        "enunciado": "A freqüência de uma onda senoidal é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "proporcional ao período"
+            },
+            {
+                "correta": false,
+                "texto": "proporcional a amplitude"
+            },
+            {
+                "correta": true,
+                "texto": "inversamente proporcional ao período"
+            },
+            {
+                "correta": false,
+                "texto": "inversamente proporcional à amplitude"
+            },
+            {
+                "correta": false,
+                "texto": "independente do período"
+            }
+        ]
+    },
+    {
+        "numero": 693,
+        "enunciado": "O valor pico-a-pico de uma onda senoidal é igual:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "a 0,707 vezes o valor da amplitude"
+            },
+            {
+                "correta": false,
+                "texto": "ao valor da amplitude"
+            },
+            {
+                "correta": true,
+                "texto": "a duas vezes o valor da amplitude"
+            },
+            {
+                "correta": false,
+                "texto": "a três vezes o valor da amplitude"
+            },
+            {
+                "correta": false,
+                "texto": "a quatro vezes o valor da amplitude"
+            }
+        ]
+    },
+    {
+        "numero": 694,
+        "enunciado": "O valor eficaz ou RMS de uma onda senoidal é aproximadamente igual a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,5 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "0,637 vezes o valor máximo"
+            },
+            {
+                "correta": true,
+                "texto": "0,707 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "1,41 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "2 vezes o valor máximo"
+            }
+        ]
+    },
+    {
+        "numero": 696,
+        "enunciado": "Em um circuito, o somatório das tensões em uma malha fechada é igual a zero. Este enunciado é da Lei de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "Ohm"
+            },
+            {
+                "correta": false,
+                "texto": "Lens"
+            },
+            {
+                "correta": true,
+                "texto": "Kirchhof"
+            },
+            {
+                "correta": false,
+                "texto": "Joule"
+            },
+            {
+                "correta": false,
+                "texto": "Newton"
+            }
+        ]
+    },
+    {
+        "numero": 697,
+        "enunciado": "Por um circuito resistivo de 120 ohm circula uma corrente de 0,15 A, quando alimentado por uma tensão de 18 V. Quando alimentado com uma tensão de 36 V a corrente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "diminui para 0,075 A"
+            },
+            {
+                "correta": true,
+                "texto": "aumenta para 0,300 A"
+            },
+            {
+                "correta": false,
+                "texto": "diminui 4 vezes"
+            },
+            {
+                "correta": false,
+                "texto": "aumenta 4 vezes"
+            },
+            {
+                "correta": false,
+                "texto": "aumenta infinitamente"
+            }
+        ]
+    },
+    {
+        "numero": 698,
+        "enunciado": "A indutância mútua entre duas bobinas depende do coeficiente de acoplamento entre elas. Este coeficiente é sempre:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "menor que zero"
+            },
+            {
+                "correta": true,
+                "texto": "menor que 1"
+            },
+            {
+                "correta": false,
+                "texto": "igual a 1"
+            },
+            {
+                "correta": false,
+                "texto": "maior que 1"
+            },
+            {
+                "correta": false,
+                "texto": "maior que 10"
+            }
+        ]
+    },
+    {
+        "numero": 700,
+        "enunciado": "Uma diferença de potencial elétrico estabelecida entre os extremos de um condutor provoca:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "indutância mútua"
+            },
+            {
+                "correta": true,
+                "texto": "corrente elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "amplificação"
+            },
+            {
+                "correta": false,
+                "texto": "reatância capacitiva"
+            },
+            {
+                "correta": false,
+                "texto": "resistência"
+            }
+        ]
+    },
+    {
+        "numero": 701,
+        "enunciado": "A corrente elétrica é continua quando:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "tem a forma de uma senóide"
+            },
+            {
+                "correta": true,
+                "texto": "não muda a polaridade no tempo"
+            },
+            {
+                "correta": false,
+                "texto": "não é retificada"
+            },
+            {
+                "correta": false,
+                "texto": "ora é positiva e ora e negativa"
+            },
+            {
+                "correta": false,
+                "texto": "é alternada"
+            }
+        ]
+    },
+    {
+        "numero": 702,
+        "enunciado": "O gerador de corrente alternada é conhecido como:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "acumulador"
+            },
+            {
+                "correta": true,
+                "texto": "alternador"
+            },
+            {
+                "correta": false,
+                "texto": "bateria"
+            },
+            {
+                "correta": false,
+                "texto": "pilha"
+            },
+            {
+                "correta": false,
+                "texto": "dínamo de c.c"
+            }
+        ]
+    },
+    {
+        "numero": 703,
+        "enunciado": "Um resistor de 6.400 ohm apresenta as cores:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "verde, amarelo, vermelho"
+            },
+            {
+                "correta": true,
+                "texto": "azul, amarelo, vermelho"
+            },
+            {
+                "correta": false,
+                "texto": "azul, laranja, vermelho"
+            },
+            {
+                "correta": false,
+                "texto": "azul, amarelo, laranja"
+            },
+            {
+                "correta": false,
+                "texto": "verde, laranja, laranja"
+            }
+        ]
+    },
+    {
+        "numero": 704,
+        "enunciado": "A grandeza que define a quantidade de energia consumida por unidade de tempo é a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "tensão"
+            },
+            {
+                "correta": true,
+                "texto": "potência"
+            },
+            {
+                "correta": false,
+                "texto": "freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "capacitância"
+            },
+            {
+                "correta": false,
+                "texto": "corrente"
+            }
+        ]
+    },
+    {
+        "numero": 705,
+        "enunciado": "Um chuveiro que dissipa 2 kW quando ligado com tensão de 200 V tem uma resistência igual a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "10 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "20 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "100 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "400 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "2k2 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 707,
+        "enunciado": "A resistência equivalente a uma associação de 10 resistores de 100 ohm cada um, em paralelo, é de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "1 ohm"
+            },
+            {
+                "correta": true,
+                "texto": "10 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "12,5 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "25 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "50 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 708,
+        "enunciado": "A carga de um capacitor é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "henry"
+            },
+            {
+                "correta": true,
+                "texto": "coulomb"
+            },
+            {
+                "correta": false,
+                "texto": "volt"
+            },
+            {
+                "correta": false,
+                "texto": "ampère"
+            },
+            {
+                "correta": false,
+                "texto": "ohm"
+            }
+        ]
+    },
+    {
+        "numero": 709,
+        "enunciado": "O fluxo magnético que passa por uma dada seção transversal é chamado de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "campo magnético"
+            },
+            {
+                "correta": true,
+                "texto": "densidade de fluxo magnético"
+            },
+            {
+                "correta": false,
+                "texto": "indução magnética"
+            },
+            {
+                "correta": false,
+                "texto": "intensidade de campo"
+            },
+            {
+                "correta": false,
+                "texto": "linhas de força"
+            }
+        ]
+    },
+    {
+        "numero": 710,
+        "enunciado": "Um gerador que transforma energia química em elétrica:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "a válvula eletrônica"
+            },
+            {
+                "correta": true,
+                "texto": "a pilha"
+            },
+            {
+                "correta": false,
+                "texto": "o alternador"
+            },
+            {
+                "correta": false,
+                "texto": "o transistor"
+            },
+            {
+                "correta": false,
+                "texto": "o dínamo"
+            }
+        ]
+    },
+    {
+        "numero": 711,
+        "enunciado": "O valor de pico de uma onda senoidal é igual ao valor:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "pico-a-pico"
+            },
+            {
+                "correta": true,
+                "texto": "máximo"
+            },
+            {
+                "correta": false,
+                "texto": "eficaz"
+            },
+            {
+                "correta": false,
+                "texto": "médio"
+            },
+            {
+                "correta": false,
+                "texto": "RMS"
+            }
+        ]
+    },
+    {
+        "numero": 713,
+        "enunciado": "A corrente alternada medida por um amperímetro é a corrente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "média"
+            },
+            {
+                "correta": true,
+                "texto": "eficaz"
+            },
+            {
+                "correta": false,
+                "texto": "máxima"
+            },
+            {
+                "correta": false,
+                "texto": "de pico"
+            },
+            {
+                "correta": false,
+                "texto": "pico-a-pico"
+            }
+        ]
+    },
+    {
+        "numero": 714,
+        "enunciado": "Aplicando-se uma tensão alternada a um indutor, a corrente que circula por ele ficará, em relação à tensão:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "atrasada de 45°"
+            },
+            {
+                "correta": true,
+                "texto": "atrasada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 45°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "em fase"
+            }
+        ]
+    },
+    {
+        "numero": 715,
+        "enunciado": "Quando aumenta a freqüência da tensão aplicada a um indutor sua reatância:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "diminui"
+            },
+            {
+                "correta": true,
+                "texto": "aumenta"
+            },
+            {
+                "correta": false,
+                "texto": "permanece constante"
+            },
+            {
+                "correta": false,
+                "texto": "evita que a freqüência aumente f"
+            },
+            {
+                "correta": false,
+                "texto": "torna-se nula"
+            }
+        ]
+    },
+    {
+        "numero": 717,
+        "enunciado": "A potência aparente de um circuito de C.A depende:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "da tensão e da corrente"
+            },
+            {
+                "correta": false,
+                "texto": "da tensão e do fator de potência"
+            },
+            {
+                "correta": false,
+                "texto": "da corrente e do fator de potência"
+            },
+            {
+                "correta": false,
+                "texto": "da tensão, da corrente e do fator de potência"
+            },
+            {
+                "correta": false,
+                "texto": "somente do fator de potência"
+            }
+        ]
+    },
+    {
+        "numero": 718,
+        "enunciado": "Em um circuito de C A RC-série a tensão no capacitor, em relação à corrente, fica:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "atrasada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "atrasada de 180°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 180°"
+            },
+            {
+                "correta": false,
+                "texto": "ênfase"
+            }
+        ]
+    },
+    {
+        "numero": 720,
+        "enunciado": "O movimento das cargas elétricas através de um condutor denomina-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "corrente elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "linhas de força"
+            },
+            {
+                "correta": false,
+                "texto": "tensão elétrica"
+            },
+            {
+                "correta": false,
+                "texto": "fenômeno de histerese"
+            },
+            {
+                "correta": false,
+                "texto": "força eletromotriz"
+            }
+        ]
+    },
+    {
+        "numero": 721,
+        "enunciado": "O eixo central em forma de bastão das pilhas e feito de carvão e constitui o:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "pólo positivo"
+            },
+            {
+                "correta": false,
+                "texto": "pólo negativo"
+            },
+            {
+                "correta": false,
+                "texto": "pólo neutro"
+            },
+            {
+                "correta": false,
+                "texto": "eletrólito"
+            },
+            {
+                "correta": false,
+                "texto": "potencial de terra"
+            }
+        ]
+    },
+    {
+        "numero": 722,
+        "enunciado": "São grandezas relacionadas na Lei de Ohm:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "resistência, corrente, tensão"
+            },
+            {
+                "correta": false,
+                "texto": "tensão, ampère, ohm"
+            },
+            {
+                "correta": false,
+                "texto": "corrente, resistência, volt"
+            },
+            {
+                "correta": false,
+                "texto": "potência, volt, corrente"
+            },
+            {
+                "correta": false,
+                "texto": "volt, ohm, watt"
+            }
+        ]
+    },
+    {
+        "numero": 723,
+        "enunciado": "Uma tensão de 10 V sobre uma resistência de 20 ohm gera uma corrente de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "0,5 A"
+            },
+            {
+                "correta": false,
+                "texto": "0,08333333"
+            },
+            {
+                "correta": false,
+                "texto": "0,41666666"
+            },
+            {
+                "correta": false,
+                "texto": "30 A"
+            },
+            {
+                "correta": false,
+                "texto": "200 A"
+            }
+        ]
+    },
+    {
+        "numero": 724,
+        "enunciado": "A passagem de corrente elétrica através de uma resistência produz um efeito:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "térmico"
+            },
+            {
+                "correta": false,
+                "texto": "luminoso"
+            },
+            {
+                "correta": false,
+                "texto": "químico"
+            },
+            {
+                "correta": false,
+                "texto": "magnético"
+            },
+            {
+                "correta": false,
+                "texto": "radioativo"
+            }
+        ]
+    },
+    {
+        "numero": 725,
+        "enunciado": "Dois corpos carregados eletricamente com cargas, respectivamente, positiva e negativa exercem entre si uma força que tende a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "aproximá-los"
+            },
+            {
+                "correta": false,
+                "texto": "afastá-los"
+            },
+            {
+                "correta": false,
+                "texto": "mantê-los imóveis"
+            },
+            {
+                "correta": false,
+                "texto": "deslocá-los para a direita"
+            },
+            {
+                "correta": false,
+                "texto": "deslocá-los para a esquerda"
+            }
+        ]
+    },
+    {
+        "numero": 727,
+        "enunciado": "Um corpo carregado eletricamente e em repouso gera:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "campo elétrico"
+            },
+            {
+                "correta": false,
+                "texto": "campo magnético"
+            },
+            {
+                "correta": false,
+                "texto": "fluxo de prótons"
+            },
+            {
+                "correta": false,
+                "texto": "nêutrons"
+            },
+            {
+                "correta": false,
+                "texto": "radiação gama"
+            }
+        ]
+    },
+    {
+        "numero": 728,
+        "enunciado": "A associação que resulta em uma resistência equivalente de 200 ohm é a série dos seguintes resistores:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "100 ohm, 80 ohm, 20 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "200 ohm, 150 ohm, 50 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "200 ohm, 200 ohm, 200 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "600 ohm, 600 ohm, 600 ohm"
+            },
+            {
+                "correta": false,
+                "texto": "800 ohm, 800 ohm, 400 ohm"
+            }
+        ]
+    },
+    {
+        "numero": 729,
+        "enunciado": "Um dos fatores que influem na capacitância é:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "o material dielétrico"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão de isolação"
+            },
+            {
+                "correta": false,
+                "texto": "a freqüência"
+            },
+            {
+                "correta": false,
+                "texto": "a temperatura"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão aplicada"
+            }
+        ]
+    },
+    {
+        "numero": 730,
+        "enunciado": "Farad é a unidade de medida de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "capacitância"
+            },
+            {
+                "correta": false,
+                "texto": "indutância"
+            },
+            {
+                "correta": false,
+                "texto": "reatância"
+            },
+            {
+                "correta": false,
+                "texto": "impedância"
+            },
+            {
+                "correta": false,
+                "texto": "admitância"
+            }
+        ]
+    },
+    {
+        "numero": 731,
+        "enunciado": "Em relação a tensão, a corrente num capacitor está:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "adiantada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "adiantada de 180°"
+            },
+            {
+                "correta": false,
+                "texto": "atrasada de 90°"
+            },
+            {
+                "correta": false,
+                "texto": "atrasada de 180°"
+            },
+            {
+                "correta": false,
+                "texto": "em fase"
+            }
+        ]
+    },
+    {
+        "numero": 733,
+        "enunciado": "Aumentando o número de espiras de um indutor ocorre:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "aumento da indutância"
+            },
+            {
+                "correta": false,
+                "texto": "diminuição da indutância"
+            },
+            {
+                "correta": false,
+                "texto": "diminuição da reatância indutiva"
+            },
+            {
+                "correta": false,
+                "texto": "diminuição da defasagem entre tensão e corrente"
+            },
+            {
+                "correta": false,
+                "texto": "aumento da defasagem entre tensão e corrente"
+            }
+        ]
+    },
+    {
+        "numero": 735,
+        "enunciado": "A indutância mútua entre duas bobinas não depende:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "da temperatura ambiente"
+            },
+            {
+                "correta": false,
+                "texto": "da distância entre as bobinas"
+            },
+            {
+                "correta": false,
+                "texto": "da indutância entre uma das bobinas"
+            },
+            {
+                "correta": false,
+                "texto": "da indutância entre uma das bobinas"
+            },
+            {
+                "correta": false,
+                "texto": "da indutância entre uma das bobinas"
+            }
+        ]
+    },
+    {
+        "numero": 736,
+        "enunciado": "Analisando-se uma onda senoidal, deduz-se que:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "a tensão eficaz é maior do que a tensão média"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão eficaz é maior do que a tensão de pico"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão média é maior do que a tensão de pico"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão máxima é maior do que a tensão pico-a-pico"
+            },
+            {
+                "correta": false,
+                "texto": "a tensão máxima é diferente da tensão de pico"
+            }
+        ]
+    },
+    {
+        "numero": 737,
+        "enunciado": "Quando aumenta a freqüência da tensão aplicada a um capacitor sua reatância:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "diminui"
+            },
+            {
+                "correta": false,
+                "texto": "aumenta"
+            },
+            {
+                "correta": false,
+                "texto": "permanece constante"
+            },
+            {
+                "correta": false,
+                "texto": "toma-se nula"
+            },
+            {
+                "correta": false,
+                "texto": "evita que a freqüência aumente"
+            }
+        ]
+    },
+    {
+        "numero": 1169,
+        "enunciado": "A impedância de saída de um amplificador é de 8 ohm. A maior transferência de sinal ocorre com a ligação de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "8 falantes de l6 ohm em paralelo"
+            },
+            {
+                "correta": false,
+                "texto": "8 falantes de 8 ohm em série"
+            },
+            {
+                "correta": false,
+                "texto": "4 falantes de l6 ohm em paralelo"
+            },
+            {
+                "correta": true,
+                "texto": "2 falantes de l6 ohm em paralelo"
+            },
+            {
+                "correta": false,
+                "texto": "2 falantes de l6 ohm em série"
+            }
+        ]
+    },
+    {
+        "numero": 1170,
+        "enunciado": "A potência em C.A. é dada pela fórmula P=V.I.Cos ?. Os valores de 'V' e 'I' são, respectivamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "eficaz e máximo"
+            },
+            {
+                "correta": true,
+                "texto": "eficaz e eficaz"
+            },
+            {
+                "correta": false,
+                "texto": "máximo e máximo"
+            },
+            {
+                "correta": false,
+                "texto": "máximo e RMS"
+            },
+            {
+                "correta": false,
+                "texto": "médio e médio"
+            }
+        ]
+    },
+    {
+        "numero": 1171,
+        "enunciado": "A reatância capacitiva é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "ampères"
+            },
+            {
+                "correta": false,
+                "texto": "volts"
+            },
+            {
+                "correta": false,
+                "texto": "henries"
+            },
+            {
+                "correta": false,
+                "texto": "farads"
+            },
+            {
+                "correta": true,
+                "texto": "ohm s"
+            }
+        ]
+    },
+    {
+        "numero": 1172,
+        "enunciado": "Dois corpos carregados eletricamente com cargas negativas geram uma força que tende a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "aproximá-los"
+            },
+            {
+                "correta": true,
+                "texto": "afastá-los"
+            },
+            {
+                "correta": false,
+                "texto": "mantê-los imóveis"
+            },
+            {
+                "correta": false,
+                "texto": "positivá-los"
+            },
+            {
+                "correta": false,
+                "texto": "neutralizá-los"
+            }
+        ]
+    },
+    {
+        "numero": 1173,
+        "enunciado": "Num transformador, o fenômeno pelo qual a energia é transferida de um enrolamento para outro é conhecido como:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "Indutância mútua"
+            },
+            {
+                "correta": false,
+                "texto": "reatância indutiva"
+            },
+            {
+                "correta": false,
+                "texto": "indutância"
+            },
+            {
+                "correta": false,
+                "texto": "condutância"
+            },
+            {
+                "correta": false,
+                "texto": "admitância"
+            }
+        ]
+    },
+    {
+        "numero": 1174,
+        "enunciado": "O campo magnético criado por uma corrente induzida:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "opõe-se à variação do campo magnético induziu a corrente"
+            },
+            {
+                "correta": false,
+                "texto": "aumenta o campo magnético que induziu a corrente"
+            },
+            {
+                "correta": false,
+                "texto": "anula o campo magnético que induziu a corrente"
+            },
+            {
+                "correta": false,
+                "texto": "não afeta o campo magnético que induziu a corrente"
+            },
+            {
+                "correta": false,
+                "texto": "não existe"
+            }
+        ]
+    },
+    {
+        "numero": 1175,
+        "enunciado": "O valor eficaz de uma corrente senoidal é aproximadamente igual a:",
+        "anulada": true,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "23% do valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "53% do valor máximo"
+            },
+            {
+                "correta": true,
+                "texto": "63% do valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "73% do valor Maximo"
+            },
+            {
+                "correta": false,
+                "texto": "93% do valor máximo"
+            }
+        ]
+    },
+    {
+        "numero": 1176,
+        "enunciado": "O valor eficaz de uma onda senoidal é aproximadamente igual a:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,5 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "0,637 vezes o valor máximo"
+            },
+            {
+                "correta": true,
+                "texto": "0,707 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "1,41 vezes o valor máximo"
+            },
+            {
+                "correta": false,
+                "texto": "2 vezes o valor máximo"
+            }
+        ]
+    },
+    {
+        "numero": 177,
+        "enunciado": "O valor pico-a-pico de uma onda senoidal é de 32 V. O valor médio desta tensão é aproximadamente:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": true,
+                "texto": "10 V"
+            },
+            {
+                "correta": false,
+                "texto": "16 V"
+            },
+            {
+                "correta": false,
+                "texto": "24 V"
+            },
+            {
+                "correta": false,
+                "texto": "30 V"
+            },
+            {
+                "correta": false,
+                "texto": "32 V"
+            }
+        ]
+    },
+    {
+        "numero": 1178,
+        "enunciado": "Para aumentar a intensidade do campo magnético de um eletro-imã deve-se:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "diminuir o número de espiras"
+            },
+            {
+                "correta": false,
+                "texto": "aumentar o comprimento da bobina"
+            },
+            {
+                "correta": true,
+                "texto": "aumentar o comprimento da bobina"
+            },
+            {
+                "correta": false,
+                "texto": "ligar um resistor em paralelo com a bobina"
+            },
+            {
+                "correta": false,
+                "texto": "ligar um resistor em série com a bobina"
+            }
+        ]
+    },
+    {
+        "numero": 1179,
+        "enunciado": "Para obter-se uma resistência equivalente de 4 ohm devem ser associados:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "4 resistores de 8 ohm em paralelo"
+            },
+            {
+                "correta": true,
+                "texto": "4 resistores de 16 ohm em paralelo"
+            },
+            {
+                "correta": false,
+                "texto": "4 resistores de 8 ohm em série"
+            },
+            {
+                "correta": false,
+                "texto": "4 resistores de 16 ohm em série"
+            },
+            {
+                "correta": false,
+                "texto": "1 resistor de 8 ohm em paralelo com um de 2 n-"
+            }
+        ]
+    },
+    {
+        "numero": 1180,
+        "enunciado": "A reatância indutiva é medida em:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "ampères"
+            },
+            {
+                "correta": false,
+                "texto": "volts"
+            },
+            {
+                "correta": false,
+                "texto": "henries"
+            },
+            {
+                "correta": false,
+                "texto": "farads"
+            },
+            {
+                "correta": true,
+                "texto": "ohms"
+            }
+        ]
+    },
+    {
+        "numero": 1181,
+        "enunciado": "Por uma lâmpada circula 2,5 A quando alimentada com 110 V. A potência elétrica dissipada é de:",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "275 mW"
+            },
+            {
+                "correta": false,
+                "texto": "44 W"
+            },
+            {
+                "correta": false,
+                "texto": "112,5 W"
+            },
+            {
+                "correta": true,
+                "texto": "275 W"
+            },
+            {
+                "correta": false,
+                "texto": "44 kW"
+            }
+        ]
+    },
+    {
+        "numero": 1182,
+        "enunciado": "Um chuveiro ligado à rede elétrica de 110 V durante 2 segundos dissipa 550 J. A corrente no circuito é de",
+        "anulada": false,
+        "embaralhar_alternativas": true,
+        "alternativas": [
+            {
+                "correta": false,
+                "texto": "0,1 A"
+            },
+            {
+                "correta": false,
+                "texto": "0,4 A"
+            },
+            {
+                "correta": true,
+                "texto": "2,5 A"
+            },
+            {
+                "correta": false,
+                "texto": "0,20833333"
+            },
+            {
+                "correta": false,
+                "texto": "0,41666666"
+            }
+        ]
+    }
+]
